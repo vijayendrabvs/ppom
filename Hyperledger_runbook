@@ -1,0 +1,215 @@
+For ubuntu 18.04 -
+
+step 1. Install docker
+
+	sudo apt install -y docker.io
+
+step 2. sudo usermod -aG docker <your user id> (you can use id -n)
+
+step 3. logout and login back again.
+
+step 3. docker ps
+
+	- confirm it works
+
+step 4. install git if not present - sudo apt install -y git
+
+step 5. install golang
+
+	sudo apt install -y golang-go
+
+step 6. install docker-compose
+
+	sudo apt install -y docker-compose
+
+step 7. set your GOPATH. To do this -
+
+	mkdir -p ~/go/src/github.com
+	export GOPATH=~/go
+	cd $GOPATH/src/github.com
+	git clone https://github.com/hyperledger/fabric-samples.git
+	cd fabric-samples/
+	git remote add vijay git@github.com:vijayendrabvs/fabric-samples.git
+	git fetch vijay
+	git checkout release-1.4-with-port
+	cd chaincode-docker-devmode/
+
+step 8. docker-compose -f docker-compose-simple.yaml up
+
+step 9. Write your first smart contract! To write your first smart contract:
+
+	step 1. cd $GOPATH/src/github.com/fabric-samples/chaincode/
+
+	step 2. mkdir myechoasset; cd myechoasset
+
+	step 3. vi myechoasset.go (:set paste)
+
+	step 4. Add the following code to the file -
+
+```
+
+package main
+
+import (
+
+"fmt"
+
+"github.com/hyperledger/fabric/core/chaincode/shim"
+"github.com/hyperledger/fabric/protos/peer"
+)
+
+type MyEchoAsset struct {
+
+}
+
+func (asset *MyEchoAsset) Init(stub shim.ChaincodeStubInterface) peer.Response {
+
+return shim.Success([]byte("{}"))
+}
+
+func (asset *MyEchoAsset) Invoke(stub shim.ChaincodeStubInterface) peer.Response {
+
+// Extract the function and args from the transaction proposal
+fn, args := stub.GetFunctionAndParameters()
+
+var response string
+var err error
+if fn == "echo" {
+        response, err = asset.Echo(stub, args)
+} else if fn == "write" {
+        err = asset.Write(stub, args)
+} else if fn == "read" {
+        response, err = asset.Read(stub, args)
+} else {
+    return shim.Error(fmt.Sprintf("Invalid operation specified: %s", fn))
+}
+if err != nil {
+        return shim.Error(err.Error())
+}
+return shim.Success([]byte(response))
+}
+
+func main() {
+
+if err := shim.Start(new(MyEchoAsset)); err != nil {
+        fmt.Printf("Error starting MyEchoAsset chaincode: %s", err)
+}
+}
+
+func (asset *MyEchoAsset) Read(stub shim.ChaincodeStubInterface, args []string) (string, error) {
+
+// key is sent as arg.
+    if len(args) < 1 {
+            return "", fmt.Errorf("Insufficient arguments")
+    }
+    key := args[0]
+
+    val, err := stub.GetState(key)
+    if err != nil {
+            fmt.Errorf("Failed to retrieve key, err: %s", err.Error())
+            return "", err
+    }
+
+    fmt.Printf("Key %s read from block, value: %s", key, val)
+    return string(val), err
+}
+
+func (asset *MyEchoAsset) Write(stub shim.ChaincodeStubInterface, args []string) (error) {
+
+// Assume that the args have a key and a value.
+    if len(args) < 2 {
+            return fmt.Errorf("Insufficient arguments")
+    }
+    key := args[0]
+    val := args[1]
+
+    err := stub.PutState(key, []byte(val))
+    if err != nil {
+            fmt.Errorf("Failed to create key/val, err: %s", err.Error())
+            return err
+    }
+
+    fmt.Printf("Key %s, val %s successfully written to block", key, val)
+    return nil
+}
+
+func (asset *MyEchoAsset) Echo(stub shim.ChaincodeStubInterface, args []string) (string, error) {
+
+// Just return the first arg.
+    if len(args) < 1 {
+            return "", fmt.Errorf("Nothing to echo")
+    }
+    return args[0], nil
+}
+
+```
+
+	step 5. Explain the peer and shim packages. Explain the Init() and Invoke() functions as the interface functions for every smart contract.
+
+	step 6. First, build and run the chain code (smart contract) -
+
+		docker exec -it chaincode bash -c "cd /opt/gopath/src/chaincode/myechoasset && go build -gcflags '-l' && CORE_PEER_ADDRESS=peer:7052 CORE_CHAINCODE_ID_NAME=myechoasset:0 ./myechoasset"
+
+This step will register the chain code in the blockchain.
+
+step 7. Now, install the chaincode on the blockchain.
+
+docker exec -it cli bash -c "peer chaincode install -p chaincodedev/chaincode/myechoasset -n myechoasset -v 0"
+
+The above validates and installs the chaincode as an "LSCC" (Lifecycle system chain code) on the peer. Usually, you will use user chaincodes instead.
+
+step 8. Now go ahead and instantiate the chaincode. This will call the Init() function and make it alive in the peer and attach it to an I/O channel, which makes it ready to be invoked.
+
+docker exec -it cli bash -c "peer chaincode instantiate -n myechoasset -v 0 -c '{\"Args\":[]}' -C myc"
+
+The above step actually writes the invocation of the chaincode to the blockchain -
+
+```
+
+peer | 2018-11-19 01:35:00.105 UTC [discovery/lifecycle] processPendingUpdate -> DEBU 13f88 Updating channel myc with [name:"myechoasset" version:"0" ]
+
+peer | 2018-11-19 01:35:00.105 UTC [historyleveldb] Commit -> DEBU 13f89 Channel [myc]: Updates committed to history database for blockNo [1]
+
+peer | 2018-11-19 01:35:00.105 UTC [kvledger] CommitWithPvtData -> INFO 13f8a [myc] Committed block [1] with 1 transaction(s) in 8ms (state_validation=2ms block_commit=3ms state_commit=1ms)
+
+peer | 2018-11-19 01:35:00.105 UTC [discovery/lifecycle] fireChangeListeners -> DEBU 13f8b Listeners for channel myc invoked
+
+peer | 2018-11-19 01:35:00.106 UTC [pvtstatepurgemgmt] prepareWorkingsetFor -> DEBU 13f8c Preparing potential purge list working-set for expiringAtBlk [2]
+
+```
+
+step 9. Invoke your smart contract first with echo !
+
+docker exec -it cli bash -c "peer chaincode invoke -n myechoasset -c '{\"Args\":[\"echo\", \"arg1\"]}' -C myc"
+
+step 10. Give a wrong op instead of echo -
+
+docker exec -it cli bash -c "peer chaincode invoke -n myechoasset -c '{\"Args\":[\"junkop\", \"arg1\"]}' -C myc"
+
+Step 11. Invoke a write to the blockchain -
+
+docker exec -it cli bash -c "peer chaincode invoke -n myechoasset -c '{\"Args\":[\"write\", \"key1\", \"val1\"]}' -C myc"
+
+Step 12. Now read it -
+
+docker exec -it cli bash -c "peer chaincode invoke -n myechoasset -c '{\"Args\":[\"read\", \"key1\"]}' -C myc"
+
+@@@@@
+
+For mac -
+
+Install docker -
+
+https://docs.docker.com/v17.12/docker-for-mac/install/
+
+Install go -
+
+brew update
+
+brew install golang
+
+Install git -
+
+brew install git
+
+@@@@@
