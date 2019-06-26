@@ -1,0 +1,1 @@
+sudo stress --cpu 8 --io 5 --vm 4 --vm-bytes 512M --timeout 2000s
