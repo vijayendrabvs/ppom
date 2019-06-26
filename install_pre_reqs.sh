@@ -14,3 +14,7 @@ sudo apt install -y golang-go
 
 echo "Installing docker-compose"
 sudo apt install -y docker-compose
+
+echo "Setting up GOPATH"
+echo "export GOPATH=~/go/src/github.com" >> ~/.profile
+source ~/.profile
