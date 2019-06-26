@@ -1,1071 +1,1071 @@
-     myechoasset-23365 [001] ....  6870.015333: 0x00000001: latency: 25839
-     myechoasset-23365 [001] ....  6870.658486: 0x00000001: latency: 13138
-     myechoasset-23365 [001] ....  6871.395034: 0x00000001: latency: 12834
-     myechoasset-23365 [002] ....  6871.950705: 0x00000001: latency: 13879
-     myechoasset-23365 [002] ....  6872.437638: 0x00000001: latency: 13016
-     myechoasset-21293 [002] ....  6873.023992: 0x00000001: latency: 13392
-     myechoasset-21291 [000] ....  6873.641340: 0x00000001: latency: 13620
-     myechoasset-21292 [000] ....  6874.458245: 0x00000001: latency: 14770
-     myechoasset-21291 [000] ....  6884.905545: 0x00000001: latency: 13000
-     myechoasset-21291 [000] ....  6885.613384: 0x00000001: latency: 14948
-     myechoasset-21291 [000] ....  6886.291461: 0x00000001: latency: 13340
-     myechoasset-21292 [002] ....  6887.050482: 0x00000001: latency: 13253
-     myechoasset-23365 [002] ....  6887.682408: 0x00000001: latency: 13818
-     myechoasset-21292 [002] ....  6888.325830: 0x00000001: latency: 13798
-     myechoasset-21291 [002] ....  6889.064951: 0x00000001: latency: 13299
-     myechoasset-21292 [002] ....  6889.857514: 0x00000001: latency: 13791
-     myechoasset-23365 [002] ....  6890.398177: 0x00000001: latency: 24655
-     myechoasset-21291 [002] ....  6891.121063: 0x00000001: latency: 13572
-     myechoasset-23365 [003] ....  6891.716260: 0x00000001: latency: 13580
-     myechoasset-21293 [003] ....  6892.462337: 0x00000001: latency: 14032
-     myechoasset-21292 [003] ....  6893.117847: 0x00000001: latency: 80758
-     myechoasset-23365 [003] ....  6893.665962: 0x00000001: latency: 136552
-     myechoasset-21292 [003] ....  6894.261981: 0x00000001: latency: 14253
-     myechoasset-21292 [002] ....  6894.986027: 0x00000001: latency: 14094
-     myechoasset-23365 [002] ....  6895.583904: 0x00000001: latency: 13498
-     myechoasset-23365 [002] ....  6896.237801: 0x00000001: latency: 13337
-     myechoasset-21291 [002] ....  6896.814593: 0x00000001: latency: 14000
-     myechoasset-23365 [002] ....  6897.571651: 0x00000001: latency: 13162
-     myechoasset-23365 [002] ....  6898.259578: 0x00000001: latency: 13675
-     myechoasset-21291 [002] ....  6898.963327: 0x00000001: latency: 14135
-     myechoasset-23365 [002] ....  6899.671234: 0x00000001: latency: 13092
-     myechoasset-21291 [002] ....  6900.258383: 0x00000001: latency: 13625
-     myechoasset-21292 [002] ....  6900.895355: 0x00000001: latency: 21035
-     myechoasset-23365 [002] ....  6901.581604: 0x00000001: latency: 14001
-     myechoasset-23365 [002] ....  6902.233187: 0x00000001: latency: 15949
-     myechoasset-21291 [000] ....  6902.968242: 0x00000001: latency: 13288
-     myechoasset-21291 [002] ....  6903.727172: 0x00000001: latency: 14039
-     myechoasset-23365 [002] ....  6904.557113: 0x00000001: latency: 14306
-     myechoasset-21292 [003] ....  6905.215811: 0x00000001: latency: 13641
-     myechoasset-23365 [003] ....  6905.871737: 0x00000001: latency: 13028
-     myechoasset-21292 [003] ....  6906.522406: 0x00000001: latency: 134424
-     myechoasset-23365 [002] ....  6907.320616: 0x00000001: latency: 13718
-     myechoasset-21291 [002] ....  6908.033996: 0x00000001: latency: 13909
-     myechoasset-21292 [002] ....  6908.990397: 0x00000001: latency: 134517
-     myechoasset-21292 [002] ....  6909.601146: 0x00000001: latency: 13685
-     myechoasset-23365 [002] ....  6910.333508: 0x00000001: latency: 13652
-     myechoasset-21293 [003] ....  6910.865707: 0x00000001: latency: 15360
-     myechoasset-21292 [000] ....  6911.505391: 0x00000001: latency: 13384
-     myechoasset-21292 [000] ....  6912.177533: 0x00000001: latency: 88954
-     myechoasset-23365 [000] ....  6912.834386: 0x00000001: latency: 13992
-     myechoasset-21291 [000] ....  6913.492436: 0x00000001: latency: 14265
-     myechoasset-23365 [000] ....  6914.088750: 0x00000001: latency: 13837
-     myechoasset-21292 [000] ....  6914.778179: 0x00000001: latency: 20194
-     myechoasset-21292 [000] ....  6915.345812: 0x00000001: latency: 13832
-     myechoasset-21293 [000] ....  6915.962674: 0x00000001: latency: 14004
-     myechoasset-21292 [000] ....  6916.629559: 0x00000001: latency: 13588
-     myechoasset-21293 [003] ....  6917.135395: 0x00000001: latency: 14087
-     myechoasset-21291 [002] ....  6917.702663: 0x00000001: latency: 13478
-     myechoasset-21293 [002] ....  6918.175974: 0x00000001: latency: 13714
-     myechoasset-21289 [002] ....  6918.813019: 0x00000001: latency: 13915
-     myechoasset-21291 [002] ....  6919.382310: 0x00000001: latency: 14319
-     myechoasset-21289 [002] ....  6920.109272: 0x00000001: latency: 13963
-     myechoasset-21293 [002] .n..  6920.694608: 0x00000001: latency: 13445
-     myechoasset-21292 [000] ....  6921.322819: 0x00000001: latency: 14170
-     myechoasset-21291 [000] ....  6921.893828: 0x00000001: latency: 12636
-     myechoasset-21289 [000] ....  6922.653969: 0x00000001: latency: 13027
-     myechoasset-21291 [000] ....  6923.405933: 0x00000001: latency: 13999
-     myechoasset-21289 [000] ....  6923.970859: 0x00000001: latency: 13721
-     myechoasset-21292 [000] ....  6924.721642: 0x00000001: latency: 12954
-     myechoasset-21292 [000] ....  6925.377319: 0x00000001: latency: 13197
-     myechoasset-21289 [001] ....  6925.893982: 0x00000001: latency: 12964
-     myechoasset-21292 [000] ....  6926.477790: 0x00000001: latency: 14032
-     myechoasset-21289 [000] ....  6927.190535: 0x00000001: latency: 15162
-     myechoasset-21289 [000] ....  6927.778717: 0x00000001: latency: 13539
-     myechoasset-21292 [000] ....  6928.394538: 0x00000001: latency: 13206
-     myechoasset-21291 [000] ....  6928.779378: 0x00000001: latency: 13479
-     myechoasset-21292 [000] ....  6929.361232: 0x00000001: latency: 14398
-     myechoasset-21289 [000] ....  6929.931770: 0x00000001: latency: 13353
-     myechoasset-21293 [003] .n..  6930.532952: 0x00000001: latency: 13401
-     myechoasset-21293 [003] ....  6931.121655: 0x00000001: latency: 13719
-     myechoasset-21291 [003] ....  6931.709419: 0x00000001: latency: 14049
-     myechoasset-21293 [003] ....  6932.340683: 0x00000001: latency: 13675
-     myechoasset-21292 [003] .n..  6932.979467: 0x00000001: latency: 14826
-     myechoasset-21292 [003] ....  6933.581307: 0x00000001: latency: 121649
-     myechoasset-21293 [003] ....  6934.317139: 0x00000001: latency: 86136
-     myechoasset-21291 [000] ....  6935.034176: 0x00000001: latency: 20792
-     myechoasset-21289 [003] ....  6935.612306: 0x00000001: latency: 22559
-     myechoasset-23365 [003] ....  6936.107287: 0x00000001: latency: 13140
-     myechoasset-23365 [003] ....  6936.685287: 0x00000001: latency: 14164
-     myechoasset-21289 [003] ....  6937.638356: 0x00000001: latency: 12844
-     myechoasset-21291 [003] ....  6938.277452: 0x00000001: latency: 12045
-     myechoasset-21289 [002] ....  6938.835139: 0x00000001: latency: 264283
-     myechoasset-21289 [002] ....  6939.474237: 0x00000001: latency: 13980
-     myechoasset-21291 [002] ....  6940.034471: 0x00000001: latency: 13953
-     myechoasset-21289 [002] ....  6940.765445: 0x00000001: latency: 137320
-     myechoasset-23365 [002] ....  6941.517541: 0x00000001: latency: 13588
-     myechoasset-23365 [002] ....  6942.092108: 0x00000001: latency: 13560
-     myechoasset-21289 [002] ....  6942.778982: 0x00000001: latency: 13882
-     myechoasset-21293 [001] ....  6943.337719: 0x00000001: latency: 14062
-     myechoasset-21292 [003] ....  6943.928130: 0x00000001: latency: 23980
-     myechoasset-21293 [003] ....  6944.480524: 0x00000001: latency: 12463
-     myechoasset-21292 [003] ....  6945.159257: 0x00000001: latency: 12400
-     myechoasset-21292 [003] ....  6945.798537: 0x00000001: latency: 12028
-     myechoasset-21291 [003] ....  6946.428173: 0x00000001: latency: 24612
-     myechoasset-21292 [003] ....  6947.025096: 0x00000001: latency: 12448
-     myechoasset-21291 [003] ....  6947.549646: 0x00000001: latency: 24833
-     myechoasset-21291 [003] ....  6948.113008: 0x00000001: latency: 85111
-     myechoasset-21292 [003] ....  6948.798804: 0x00000001: latency: 13795
-     myechoasset-21293 [003] ....  6949.288907: 0x00000001: latency: 14233
-     myechoasset-21292 [003] ....  6949.941842: 0x00000001: latency: 15030
-     myechoasset-21293 [003] ....  6950.689082: 0x00000001: latency: 13678
-     myechoasset-21292 [003] ....  6951.478089: 0x00000001: latency: 13904
-     myechoasset-23365 [003] ....  6952.217210: 0x00000001: latency: 13163
-     myechoasset-23365 [003] ....  6952.706042: 0x00000001: latency: 13800
-     myechoasset-21292 [003] ....  6953.321127: 0x00000001: latency: 241572
-     myechoasset-21292 [003] ....  6953.790791: 0x00000001: latency: 85195
-     myechoasset-21292 [003] ....  6954.331164: 0x00000001: latency: 13788
-     myechoasset-21291 [003] ....  6954.965856: 0x00000001: latency: 12685
-     myechoasset-21292 [001] ....  6955.566473: 0x00000001: latency: 13265
-     myechoasset-21291 [001] ....  6956.042149: 0x00000001: latency: 55808
-     myechoasset-21291 [001] ....  6956.749208: 0x00000001: latency: 13450
-     myechoasset-21293 [001] ....  6957.460441: 0x00000001: latency: 97444
-     myechoasset-21291 [001] ....  6958.067496: 0x00000001: latency: 13359
-     myechoasset-23365 [001] ....  6958.682874: 0x00000001: latency: 82926
-     myechoasset-21293 [001] ....  6959.365956: 0x00000001: latency: 49359
-     myechoasset-21292 [001] ....  6960.295243: 0x00000001: latency: 12887
-     myechoasset-21293 [001] ....  6960.845185: 0x00000001: latency: 12785
-     myechoasset-21292 [001] ....  6961.593620: 0x00000001: latency: 12758
-     myechoasset-23365 [001] ....  6962.193110: 0x00000001: latency: 13340
-     myechoasset-21292 [001] ....  6962.686208: 0x00000001: latency: 12526
-     myechoasset-21293 [000] ....  6963.406531: 0x00000001: latency: 13975
-     myechoasset-23365 [000] ....  6964.102202: 0x00000001: latency: 77094
-     myechoasset-21293 [000] ....  6964.625177: 0x00000001: latency: 238915
-     myechoasset-21292 [001] ....  6965.162669: 0x00000001: latency: 13498
-     myechoasset-21293 [000] ....  6965.765468: 0x00000001: latency: 13942
-     myechoasset-23365 [001] ....  6966.294501: 0x00000001: latency: 35576
-     myechoasset-21293 [001] ....  6967.191669: 0x00000001: latency: 127694
-     myechoasset-23365 [001] ....  6967.742824: 0x00000001: latency: 13242
-     myechoasset-21293 [001] ....  6968.425500: 0x00000001: latency: 12968
-     myechoasset-21292 [001] ....  6969.153853: 0x00000001: latency: 13941
-     myechoasset-21293 [001] ....  6969.680626: 0x00000001: latency: 23008
-     myechoasset-21292 [001] ....  6970.309379: 0x00000001: latency: 13833
-     myechoasset-23365 [003] ....  6970.910497: 0x00000001: latency: 13173
-     myechoasset-21292 [003] ....  6971.465462: 0x00000001: latency: 13586
-     myechoasset-21289 [001] ....  6972.074885: 0x00000001: latency: 13051
-     myechoasset-21293 [003] ....  6972.737158: 0x00000001: latency: 134004
-     myechoasset-23365 [003] ....  6973.417785: 0x00000001: latency: 12633
-     myechoasset-21293 [001] ....  6974.130779: 0x00000001: latency: 13191
-     myechoasset-21293 [001] ....  6974.673641: 0x00000001: latency: 13324
-     myechoasset-21289 [001] ....  6975.214945: 0x00000001: latency: 13557
-     myechoasset-21289 [001] .N..  6975.865056: 0x00000001: latency: 13341
-     myechoasset-21289 [002] ....  6976.428130: 0x00000001: latency: 13081
-     myechoasset-21291 [002] ....  6977.089366: 0x00000001: latency: 13962
-     myechoasset-21289 [003] ....  6977.632984: 0x00000001: latency: 13075
-     myechoasset-21293 [003] ....  6978.186876: 0x00000001: latency: 13357
-     myechoasset-21289 [003] ....  6978.804025: 0x00000001: latency: 12625
-     myechoasset-21291 [003] ....  6979.418503: 0x00000001: latency: 13976
-     myechoasset-21291 [003] ....  6980.039597: 0x00000001: latency: 13429
-     myechoasset-21293 [003] ....  6980.732173: 0x00000001: latency: 158981
-     myechoasset-21292 [002] ....  6981.437686: 0x00000001: latency: 13444
-     myechoasset-21292 [002] ....  6982.189491: 0x00000001: latency: 24072
-     myechoasset-21293 [003] ....  6982.805169: 0x00000001: latency: 13762
-     myechoasset-21293 [003] ....  6983.502888: 0x00000001: latency: 12753
-     myechoasset-21292 [003] ....  6984.153360: 0x00000001: latency: 13614
-     myechoasset-21289 [003] ....  6984.777258: 0x00000001: latency: 12781
-     myechoasset-21289 [003] ....  6985.317111: 0x00000001: latency: 150635
-     myechoasset-21293 [003] ....  6985.969493: 0x00000001: latency: 80480
-     myechoasset-21292 [003] ....  6986.793234: 0x00000001: latency: 14317
-     myechoasset-21293 [003] ....  6987.494112: 0x00000001: latency: 168609
-     myechoasset-21289 [001] ....  6988.213289: 0x00000001: latency: 14995
-     myechoasset-21293 [003] ....  6988.798353: 0x00000001: latency: 13353
-     myechoasset-21293 [002] ....  6989.345687: 0x00000001: latency: 13593
-     myechoasset-21292 [003] ....  6989.891285: 0x00000001: latency: 13352
-     myechoasset-21293 [003] ....  6990.554443: 0x00000001: latency: 13370
-     myechoasset-21291 [003] ....  6991.298654: 0x00000001: latency: 12993
-     myechoasset-21289 [002] ....  6991.955190: 0x00000001: latency: 13712
-     myechoasset-21291 [002] ....  6992.499500: 0x00000001: latency: 13036
-     myechoasset-21289 [003] ....  6992.993931: 0x00000001: latency: 13880
-     myechoasset-21292 [003] ....  6993.690462: 0x00000001: latency: 314642
-     myechoasset-21293 [003] ....  6994.268823: 0x00000001: latency: 14900
-     myechoasset-21293 [003] ....  6995.018039: 0x00000001: latency: 14107
-     myechoasset-21289 [003] ....  6995.607935: 0x00000001: latency: 14511
-     myechoasset-21289 [003] ....  6996.232267: 0x00000001: latency: 136119
-     myechoasset-21293 [001] ....  6996.912516: 0x00000001: latency: 235698
-     myechoasset-21292 [001] ....  6997.349641: 0x00000001: latency: 14466
-     myechoasset-21289 [001] ....  6997.929656: 0x00000001: latency: 567804
-     myechoasset-21293 [003] ....  6998.695086: 0x00000001: latency: 13770
-     myechoasset-21289 [001] ....  6999.404175: 0x00000001: latency: 39704
-     myechoasset-21292 [003] ....  7000.021354: 0x00000001: latency: 55421
-     myechoasset-21292 [003] ....  7000.601536: 0x00000001: latency: 14233
-     myechoasset-21292 [003] ....  7001.302399: 0x00000001: latency: 91387
-     myechoasset-21291 [003] ....  7001.920730: 0x00000001: latency: 13406
-     myechoasset-21289 [001] ....  7002.602187: 0x00000001: latency: 12539
-     myechoasset-21292 [003] ....  7003.149431: 0x00000001: latency: 13233
-     myechoasset-21291 [003] ....  7003.934174: 0x00000001: latency: 23838
-     myechoasset-21292 [003] ....  7004.622313: 0x00000001: latency: 13480
-     myechoasset-21293 [002] ....  7005.318117: 0x00000001: latency: 14090
-     myechoasset-21289 [001] ....  7006.128480: 0x00000001: latency: 254559
-     myechoasset-21292 [001] ....  7007.105524: 0x00000001: latency: 12730
-     myechoasset-21293 [001] ....  7007.889526: 0x00000001: latency: 14011
-     myechoasset-21292 [001] ....  7008.469957: 0x00000001: latency: 13191
-     myechoasset-21293 [000] ....  7009.037181: 0x00000001: latency: 95478
-     myechoasset-21293 [001] ....  7009.711125: 0x00000001: latency: 146676
-     myechoasset-21292 [001] ....  7010.313657: 0x00000001: latency: 14035
-     myechoasset-21293 [002] ....  7010.840725: 0x00000001: latency: 13725
-     myechoasset-21289 [001] ....  7011.379392: 0x00000001: latency: 79156
-     myechoasset-21292 [001] ....  7012.036847: 0x00000001: latency: 12868
-     myechoasset-21289 [001] ....  7012.776224: 0x00000001: latency: 13487
-     myechoasset-21292 [001] ....  7013.337576: 0x00000001: latency: 12932
-     myechoasset-21289 [001] ....  7013.983129: 0x00000001: latency: 43622
-     myechoasset-21291 [001] ....  7014.627428: 0x00000001: latency: 96834
-     myechoasset-21292 [001] ....  7015.274479: 0x00000001: latency: 13801
-     myechoasset-21291 [001] ....  7015.801627: 0x00000001: latency: 13267
-     myechoasset-21293 [001] ....  7016.613817: 0x00000001: latency: 136570
-     myechoasset-21291 [001] ....  7017.253734: 0x00000001: latency: 13502
-     myechoasset-21292 [002] ....  7017.736096: 0x00000001: latency: 14117
-     myechoasset-21291 [002] ....  7018.235440: 0x00000001: latency: 13127
-     myechoasset-21293 [001] ....  7018.998646: 0x00000001: latency: 335744
-     myechoasset-21292 [001] ....  7019.526975: 0x00000001: latency: 274185
-     myechoasset-21291 [001] ....  7020.305598: 0x00000001: latency: 13206
-     myechoasset-21292 [001] ....  7020.769282: 0x00000001: latency: 12735
-     myechoasset-21293 [001] ....  7021.450856: 0x00000001: latency: 13769
-     myechoasset-21291 [001] ....  7022.178415: 0x00000001: latency: 13812
-     myechoasset-21292 [001] ....  7022.674532: 0x00000001: latency: 13073
-     myechoasset-21289 [001] ....  7023.302556: 0x00000001: latency: 13224
-     myechoasset-21289 [000] ....  7024.074091: 0x00000001: latency: 13730
-     myechoasset-21292 [000] ....  7024.799983: 0x00000001: latency: 13791
-     myechoasset-21291 [002] ....  7025.433303: 0x00000001: latency: 54639
-     myechoasset-21292 [002] ....  7026.106681: 0x00000001: latency: 238809
-     myechoasset-21293 [002] ....  7026.838556: 0x00000001: latency: 13631
-     myechoasset-21291 [002] ....  7027.589690: 0x00000001: latency: 13734
-     myechoasset-21291 [002] ....  7028.308010: 0x00000001: latency: 27878
-     myechoasset-21291 [003] ....  7028.953336: 0x00000001: latency: 13838
-     myechoasset-21293 [001] ....  7029.716849: 0x00000001: latency: 13185
-     myechoasset-21292 [001] ....  7030.305903: 0x00000001: latency: 13782
-     myechoasset-21293 [001] ....  7031.025255: 0x00000001: latency: 14057
-     myechoasset-21293 [001] .n..  7031.586716: 0x00000001: latency: 82291
-     myechoasset-21292 [001] ....  7032.174631: 0x00000001: latency: 12961
-     myechoasset-21293 [001] ....  7032.864784: 0x00000001: latency: 14226
-     myechoasset-21291 [001] ....  7033.437077: 0x00000001: latency: 13949
-     myechoasset-21291 [001] ....  7034.162841: 0x00000001: latency: 13622
-     myechoasset-23365 [001] ....  7034.834346: 0x00000001: latency: 26270
-     myechoasset-23365 [001] .N..  7035.584019: 0x00000001: latency: 13738
-     myechoasset-21293 [003] ....  7036.310378: 0x00000001: latency: 13432
-     myechoasset-21291 [003] ....  7036.869200: 0x00000001: latency: 13315
-     myechoasset-21293 [003] ....  7037.610836: 0x00000001: latency: 13753
-     myechoasset-23365 [003] ....  7038.398406: 0x00000001: latency: 12440
-     myechoasset-21289 [003] ....  7038.939190: 0x00000001: latency: 79786
-     myechoasset-21291 [003] ....  7039.582658: 0x00000001: latency: 18883
-     myechoasset-23365 [003] ....  7040.202497: 0x00000001: latency: 70884
-     myechoasset-21291 [003] ....  7040.757219: 0x00000001: latency: 14356
-     myechoasset-21293 [003] ....  7041.666041: 0x00000001: latency: 14148
-     myechoasset-21293 [003] ....  7042.376913: 0x00000001: latency: 13418
-     myechoasset-21289 [003] ....  7043.270492: 0x00000001: latency: 13117
-     myechoasset-21292 [003] ....  7043.959863: 0x00000001: latency: 13088
-     myechoasset-21291 [003] ....  7044.558923: 0x00000001: latency: 12030
-     myechoasset-21292 [003] ....  7045.255200: 0x00000001: latency: 13388
-     myechoasset-21293 [003] ....  7046.007413: 0x00000001: latency: 13137
-     myechoasset-21291 [000] ....  7046.762612: 0x00000001: latency: 13404
-     myechoasset-21293 [000] ....  7047.393349: 0x00000001: latency: 14685
-     myechoasset-23365 [000] ....  7048.166413: 0x00000001: latency: 14187
-     myechoasset-21292 [000] ....  7048.571804: 0x00000001: latency: 14192
-     myechoasset-21293 [000] ....  7049.178894: 0x00000001: latency: 12937
-     myechoasset-21291 [000] .n..  7049.773062: 0x00000001: latency: 15121
-     myechoasset-21291 [000] ....  7050.330365: 0x00000001: latency: 84846
-     myechoasset-21291 [000] ....  7050.849595: 0x00000001: latency: 11458
-     myechoasset-21293 [002] ....  7051.428617: 0x00000001: latency: 13248
-     myechoasset-21291 [002] ....  7052.013223: 0x00000001: latency: 13642
-     myechoasset-21292 [000] ....  7052.525428: 0x00000001: latency: 13298
-     myechoasset-21292 [003] ....  7053.143180: 0x00000001: latency: 13981
-     myechoasset-21292 [003] ....  7053.766570: 0x00000001: latency: 14137
-     myechoasset-21292 [003] ....  7054.465979: 0x00000001: latency: 14388
-     myechoasset-23365 [003] ....  7055.089543: 0x00000001: latency: 12710
-     myechoasset-21293 [003] ....  7055.714097: 0x00000001: latency: 13824
-     myechoasset-21292 [003] ....  7056.310728: 0x00000001: latency: 256624
-     myechoasset-23365 [003] ....  7056.934036: 0x00000001: latency: 13435
-     myechoasset-21293 [003] ....  7057.570299: 0x00000001: latency: 12990
-     myechoasset-23365 [003] ....  7058.068158: 0x00000001: latency: 13185
-     myechoasset-23365 [003] ....  7058.617374: 0x00000001: latency: 14591
-     myechoasset-21293 [003] ....  7058.994956: 0x00000001: latency: 12054
-     myechoasset-21292 [003] ....  7059.680095: 0x00000001: latency: 13345
-     myechoasset-21292 [003] ....  7060.187962: 0x00000001: latency: 13231
-     myechoasset-23365 [000] ....  7060.847352: 0x00000001: latency: 12990
-     myechoasset-21293 [000] ....  7061.641665: 0x00000001: latency: 13932
-     myechoasset-21292 [000] ....  7062.283368: 0x00000001: latency: 14223
-     myechoasset-21293 [000] ....  7062.873081: 0x00000001: latency: 13602
-     myechoasset-21292 [000] ....  7063.382031: 0x00000001: latency: 11891
-     myechoasset-23365 [000] ....  7064.167852: 0x00000001: latency: 13520
-     myechoasset-21293 [000] ....  7064.785523: 0x00000001: latency: 13252
-     myechoasset-21292 [000] ....  7065.292005: 0x00000001: latency: 13861
-     myechoasset-21292 [000] ....  7065.937523: 0x00000001: latency: 13765
-     myechoasset-21292 [000] ....  7066.628724: 0x00000001: latency: 14348
-     myechoasset-23365 [000] ....  7067.398268: 0x00000001: latency: 14428
-     myechoasset-21293 [002] ....  7068.004269: 0x00000001: latency: 12918
-     myechoasset-23365 [002] ....  7068.546979: 0x00000001: latency: 12880
-     myechoasset-21291 [002] ....  7069.269446: 0x00000001: latency: 13760
-     myechoasset-23365 [002] ....  7069.789023: 0x00000001: latency: 12800
-     myechoasset-21293 [002] ....  7070.505508: 0x00000001: latency: 14128
-     myechoasset-23365 [002] ....  7071.171869: 0x00000001: latency: 14004
-     myechoasset-21293 [001] ....  7071.856049: 0x00000001: latency: 12773
-     myechoasset-23365 [000] ....  7072.486353: 0x00000001: latency: 13460
-     myechoasset-23365 [002] ....  7073.260863: 0x00000001: latency: 14635
-     myechoasset-21292 [002] ....  7074.021343: 0x00000001: latency: 13960
-     myechoasset-21292 [002] ....  7074.677296: 0x00000001: latency: 14264
-     myechoasset-21293 [002] ....  7075.268923: 0x00000001: latency: 13277
-     myechoasset-21292 [002] ....  7075.725494: 0x00000001: latency: 13321
-     myechoasset-21292 [002] ....  7076.400875: 0x00000001: latency: 13970
-     myechoasset-21291 [000] ....  7077.253260: 0x00000001: latency: 16417
-     myechoasset-21291 [002] ....  7078.013489: 0x00000001: latency: 15437
-     myechoasset-21292 [002] ....  7078.578391: 0x00000001: latency: 208244
-     myechoasset-21293 [002] ....  7079.298623: 0x00000001: latency: 13591
-     myechoasset-21291 [002] ....  7079.869156: 0x00000001: latency: 53371
-     myechoasset-21292 [002] ....  7080.522034: 0x00000001: latency: 13605
-     myechoasset-21293 [002] ....  7081.053277: 0x00000001: latency: 13998
-     myechoasset-21292 [002] ....  7081.587884: 0x00000001: latency: 13855
-     myechoasset-21291 [002] ....  7082.162392: 0x00000001: latency: 13121
-     myechoasset-21292 [002] ....  7082.775955: 0x00000001: latency: 14692
-     myechoasset-23365 [002] ....  7083.317398: 0x00000001: latency: 13286
-     myechoasset-23365 [002] ....  7083.961232: 0x00000001: latency: 14419
-     myechoasset-21293 [002] ....  7084.690556: 0x00000001: latency: 28918
-     myechoasset-21292 [002] ....  7085.231611: 0x00000001: latency: 239462
-     myechoasset-23365 [002] .N..  7085.702591: 0x00000001: latency: 142891
-     myechoasset-21293 [002] ....  7086.320934: 0x00000001: latency: 135529
-     myechoasset-21293 [002] ....  7086.930156: 0x00000001: latency: 13653
-     myechoasset-21293 [002] ....  7087.586272: 0x00000001: latency: 14072
-     myechoasset-21293 [002] ....  7088.106610: 0x00000001: latency: 13039
-     myechoasset-23365 [003] ....  7088.723064: 0x00000001: latency: 13211
-     myechoasset-21292 [002] ....  7089.305892: 0x00000001: latency: 13002
-     myechoasset-23365 [003] ....  7089.873420: 0x00000001: latency: 90835
-     myechoasset-21292 [003] ....  7090.514562: 0x00000001: latency: 12745
-     myechoasset-21293 [003] ....  7091.250943: 0x00000001: latency: 13061
-     myechoasset-21292 [003] .N..  7091.981472: 0x00000001: latency: 326407
-     myechoasset-23365 [003] ....  7092.612556: 0x00000001: latency: 13110
-     myechoasset-21292 [003] ....  7093.267874: 0x00000001: latency: 250369
-     myechoasset-21293 [003] ....  7093.959376: 0x00000001: latency: 127426
-     myechoasset-23365 [003] ....  7094.697242: 0x00000001: latency: 12088
-     myechoasset-21293 [003] .N..  7095.260711: 0x00000001: latency: 22144
-     myechoasset-21293 [003] ....  7095.936940: 0x00000001: latency: 13982
-     myechoasset-21293 [003] ....  7096.522894: 0x00000001: latency: 14085
-     myechoasset-21292 [003] ....  7097.058758: 0x00000001: latency: 80035
-     myechoasset-21291 [003] ....  7097.674216: 0x00000001: latency: 42609
-     myechoasset-21291 [003] ....  7098.265187: 0x00000001: latency: 13740
-     myechoasset-21292 [003] .N..  7098.861276: 0x00000001: latency: 11772
-     myechoasset-21291 [003] ....  7099.394048: 0x00000001: latency: 14425
-     myechoasset-21292 [003] ....  7100.127922: 0x00000001: latency: 12982
-     myechoasset-21293 [002] ....  7100.781970: 0x00000001: latency: 13642
-     myechoasset-21292 [002] ....  7101.484406: 0x00000001: latency: 13957
-     myechoasset-21292 [002] ....  7102.166234: 0x00000001: latency: 66181
-     myechoasset-21292 [003] ....  7102.761951: 0x00000001: latency: 13742
-     myechoasset-23365 [002] ....  7103.425723: 0x00000001: latency: 134898
-     myechoasset-21292 [003] ....  7103.971862: 0x00000001: latency: 13808
-     myechoasset-21293 [002] ....  7104.829620: 0x00000001: latency: 14193
-     myechoasset-21291 [000] ....  7105.538038: 0x00000001: latency: 13656
-     myechoasset-23365 [000] ....  7106.235605: 0x00000001: latency: 13257
-     myechoasset-23365 [000] ....  7106.913280: 0x00000001: latency: 222415
-     myechoasset-21293 [000] .N..  7107.462745: 0x00000001: latency: 46319
-     myechoasset-21293 [000] ....  7108.063108: 0x00000001: latency: 13440
-     myechoasset-21293 [001] ....  7108.618710: 0x00000001: latency: 14839
-     myechoasset-21291 [001] ....  7109.260308: 0x00000001: latency: 13314
-     myechoasset-21292 [000] ....  7109.929458: 0x00000001: latency: 24347
-     myechoasset-21293 [000] ....  7110.718993: 0x00000001: latency: 13182
-     myechoasset-21291 [001] ....  7111.609042: 0x00000001: latency: 12718
-     myechoasset-21293 [000] ....  7112.176942: 0x00000001: latency: 13818
-     myechoasset-21293 [000] ....  7112.899203: 0x00000001: latency: 13519
-     myechoasset-21291 [000] ....  7113.515955: 0x00000001: latency: 13295
-     myechoasset-21291 [000] ....  7114.277412: 0x00000001: latency: 13921
-     myechoasset-21292 [002] ....  7114.773185: 0x00000001: latency: 13917
-     myechoasset-21292 [002] ....  7115.292653: 0x00000001: latency: 13341
-     myechoasset-21293 [002] ....  7115.833751: 0x00000001: latency: 13684
-     myechoasset-21291 [002] ....  7116.454934: 0x00000001: latency: 13149
-     myechoasset-23365 [000] ....  7117.052140: 0x00000001: latency: 13812
-     myechoasset-23365 [002] ....  7117.733367: 0x00000001: latency: 14683
-     myechoasset-21293 [002] ....  7118.462334: 0x00000001: latency: 116547
-     myechoasset-21293 [002] ....  7119.121106: 0x00000001: latency: 134945
-     myechoasset-21291 [002] ....  7119.821274: 0x00000001: latency: 13912
-     myechoasset-23365 [002] ....  7120.722830: 0x00000001: latency: 15127
-     myechoasset-23365 [000] ....  7121.475700: 0x00000001: latency: 13247
-     myechoasset-21291 [002] ....  7121.894140: 0x00000001: latency: 14413
-     myechoasset-23365 [000] ....  7122.508161: 0x00000001: latency: 14006
-     myechoasset-21291 [002] ....  7123.230577: 0x00000001: latency: 13389
-     myechoasset-23365 [002] ....  7123.922517: 0x00000001: latency: 14563
-     myechoasset-21291 [002] ....  7124.542610: 0x00000001: latency: 12387
-     myechoasset-23365 [002] ....  7125.190215: 0x00000001: latency: 14033
-     myechoasset-21293 [002] ....  7125.870935: 0x00000001: latency: 13858
-     myechoasset-21291 [002] ....  7126.375052: 0x00000001: latency: 13687
-     myechoasset-21293 [002] ....  7127.100458: 0x00000001: latency: 13280
-     myechoasset-21291 [002] ....  7127.908401: 0x00000001: latency: 13483
-     myechoasset-23365 [002] ....  7128.598918: 0x00000001: latency: 13242
-     myechoasset-21291 [002] ....  7129.237292: 0x00000001: latency: 13482
-     myechoasset-21293 [002] ....  7129.883978: 0x00000001: latency: 13237
-     myechoasset-21292 [002] ....  7130.516860: 0x00000001: latency: 13912
-     myechoasset-23365 [002] ....  7131.201153: 0x00000001: latency: 15462
-     myechoasset-23365 [000] ....  7131.689735: 0x00000001: latency: 13510
-     myechoasset-21292 [000] ....  7132.437404: 0x00000001: latency: 13798
-     myechoasset-21292 [000] ....  7133.092624: 0x00000001: latency: 392713
-     myechoasset-21293 [000] ....  7133.637245: 0x00000001: latency: 49118
-     myechoasset-23365 [000] ....  7134.244795: 0x00000001: latency: 13140
-     myechoasset-23365 [000] ....  7134.862062: 0x00000001: latency: 13506
-     myechoasset-21293 [000] ....  7135.461339: 0x00000001: latency: 13675
-     myechoasset-21292 [000] ....  7136.018582: 0x00000001: latency: 13183
-     myechoasset-23365 [000] ....  7136.625660: 0x00000001: latency: 13642
-     myechoasset-21292 [000] ....  7137.463880: 0x00000001: latency: 13393
-     myechoasset-23365 [000] ....  7138.116527: 0x00000001: latency: 248151
-     myechoasset-21292 [000] ....  7138.709424: 0x00000001: latency: 54928
-     myechoasset-21291 [000] ....  7139.370679: 0x00000001: latency: 13313
-     myechoasset-21291 [000] ....  7140.174376: 0x00000001: latency: 14544
-     myechoasset-21292 [000] ....  7140.837572: 0x00000001: latency: 13744
-     myechoasset-21293 [000] ....  7141.711419: 0x00000001: latency: 13770
-     myechoasset-21293 [000] ....  7142.233882: 0x00000001: latency: 13037
-     myechoasset-21292 [000] ....  7142.938357: 0x00000001: latency: 12577
-     myechoasset-21293 [002] ....  7143.501276: 0x00000001: latency: 13166
-     myechoasset-23365 [002] ....  7143.944208: 0x00000001: latency: 13723
-     myechoasset-21292 [002] ....  7144.574769: 0x00000001: latency: 14999
-     myechoasset-21293 [002] ....  7145.249251: 0x00000001: latency: 13643
-     myechoasset-21291 [002] .N..  7145.905788: 0x00000001: latency: 12101
-     myechoasset-21292 [002] ....  7146.476847: 0x00000001: latency: 13218
-     myechoasset-21291 [000] ....  7147.071134: 0x00000001: latency: 13486
-     myechoasset-21293 [001] ....  7147.752199: 0x00000001: latency: 14110
-     myechoasset-21291 [001] ....  7148.431081: 0x00000001: latency: 14145
-     myechoasset-21292 [002] ....  7148.959476: 0x00000001: latency: 14488
-     myechoasset-21292 [002] ....  7149.397792: 0x00000001: latency: 135214
-     myechoasset-21292 [002] ....  7150.141557: 0x00000001: latency: 13834
-     myechoasset-21292 [002] ....  7150.687370: 0x00000001: latency: 13672
-     myechoasset-21291 [003] .N..  7151.386523: 0x00000001: latency: 24697
-     myechoasset-21291 [003] ....  7151.981126: 0x00000001: latency: 13443
-     myechoasset-21293 [003] ....  7152.558845: 0x00000001: latency: 104569
-     myechoasset-21291 [003] ....  7153.094971: 0x00000001: latency: 12827
-     myechoasset-21292 [003] ....  7153.742511: 0x00000001: latency: 12822
-     myechoasset-21293 [003] ....  7154.291021: 0x00000001: latency: 13145
-     myechoasset-21292 [000] ....  7154.949440: 0x00000001: latency: 251678
-     myechoasset-23365 [000] ....  7155.566877: 0x00000001: latency: 13435
-     myechoasset-23365 [000] ....  7156.290645: 0x00000001: latency: 25447
-     myechoasset-23365 [000] ....  7156.783119: 0x00000001: latency: 15205
-     myechoasset-21292 [000] ....  7157.464606: 0x00000001: latency: 13301
-     myechoasset-21292 [000] ....  7158.120493: 0x00000001: latency: 144192
-     myechoasset-21292 [000] ....  7158.774238: 0x00000001: latency: 13995
-     myechoasset-21292 [000] ....  7159.447687: 0x00000001: latency: 13373
-     myechoasset-21292 [003] ....  7160.075041: 0x00000001: latency: 56051
-     myechoasset-21291 [003] ....  7160.780684: 0x00000001: latency: 13287
-     myechoasset-23365 [003] ....  7161.405441: 0x00000001: latency: 14056
-     myechoasset-21292 [003] ....  7162.209311: 0x00000001: latency: 20460
-     myechoasset-21292 [003] .N..  7162.967268: 0x00000001: latency: 143324
-     myechoasset-23365 [003] ....  7163.474640: 0x00000001: latency: 14561
-     myechoasset-21291 [000] ....  7164.157922: 0x00000001: latency: 37575
-     myechoasset-21292 [003] ....  7164.746567: 0x00000001: latency: 14205
-     myechoasset-21292 [003] ....  7165.398830: 0x00000001: latency: 16015
-     myechoasset-23365 [003] ....  7165.893618: 0x00000001: latency: 13512
-     myechoasset-21293 [003] ....  7166.433078: 0x00000001: latency: 13999
-     myechoasset-21292 [003] ....  7166.941287: 0x00000001: latency: 13545
-     myechoasset-23365 [003] ....  7167.620754: 0x00000001: latency: 12657
-     myechoasset-21293 [002] ....  7168.123286: 0x00000001: latency: 13627
-     myechoasset-23365 [003] ....  7168.824759: 0x00000001: latency: 13831
-     myechoasset-21292 [003] ....  7169.577133: 0x00000001: latency: 13117
-     myechoasset-21291 [003] ....  7170.179512: 0x00000001: latency: 13629
-     myechoasset-21292 [003] ....  7170.865629: 0x00000001: latency: 14640
-     myechoasset-21291 [003] ....  7171.444970: 0x00000001: latency: 13459
-     myechoasset-23365 [003] ....  7172.085420: 0x00000001: latency: 13148
-     myechoasset-21291 [003] ....  7172.676371: 0x00000001: latency: 14038
-     myechoasset-21292 [003] ....  7173.380204: 0x00000001: latency: 14014
-     myechoasset-23365 [003] ....  7174.094029: 0x00000001: latency: 13159
-     myechoasset-21291 [003] ....  7174.805886: 0x00000001: latency: 13371
-     myechoasset-3094  [003] ....  7205.522583: 0x00000001: latency: 23406
-     myechoasset-3090  [000] ....  7206.085999: 0x00000001: latency: 22901
-     myechoasset-3094  [002] ....  7206.794873: 0x00000001: latency: 15533
-     myechoasset-3094  [002] ....  7207.356246: 0x00000001: latency: 13527
-     myechoasset-3090  [000] ....  7207.913716: 0x00000001: latency: 550562
-     myechoasset-3094  [002] ....  7208.684768: 0x00000001: latency: 13294
-     myechoasset-3094  [000] ....  7209.385208: 0x00000001: latency: 15105
-     myechoasset-3090  [000] ....  7210.081264: 0x00000001: latency: 13276
-     myechoasset-3094  [000] ....  7210.920257: 0x00000001: latency: 13074
-     myechoasset-3090  [000] ....  7211.458359: 0x00000001: latency: 267611
-     myechoasset-3094  [001] ....  7211.973099: 0x00000001: latency: 15132
-     myechoasset-3091  [001] ....  7212.500958: 0x00000001: latency: 13593
-     myechoasset-3094  [001] ....  7213.083537: 0x00000001: latency: 13681
-     myechoasset-3090  [001] ....  7213.862038: 0x00000001: latency: 88888
-     myechoasset-3095  [001] ....  7214.558448: 0x00000001: latency: 13707
-     myechoasset-3095  [001] ....  7215.341823: 0x00000001: latency: 82869
-     myechoasset-3095  [001] ....  7216.054466: 0x00000001: latency: 13822
-     myechoasset-3095  [001] ....  7216.721401: 0x00000001: latency: 207224
-     myechoasset-3095  [001] ....  7217.677383: 0x00000001: latency: 13466
-     myechoasset-3093  [001] ....  7218.286501: 0x00000001: latency: 13668
-     myechoasset-3093  [001] .N..  7218.857092: 0x00000001: latency: 76798
-     myechoasset-3095  [001] ....  7219.565865: 0x00000001: latency: 14300
-     myechoasset-3095  [003] ....  7220.279381: 0x00000001: latency: 13435
-     myechoasset-3093  [001] ....  7221.037110: 0x00000001: latency: 14043
-     myechoasset-3091  [000] ....  7221.737488: 0x00000001: latency: 25436
-     myechoasset-3093  [001] ....  7222.315235: 0x00000001: latency: 13569
-     myechoasset-3095  [000] ....  7222.986191: 0x00000001: latency: 13159
-     myechoasset-3093  [001] ....  7223.507932: 0x00000001: latency: 13203
-     myechoasset-3095  [000] ....  7224.176515: 0x00000001: latency: 14829
-     myechoasset-3091  [002] ....  7224.892867: 0x00000001: latency: 14943
-     myechoasset-3095  [000] ....  7225.709347: 0x00000001: latency: 13948
-     myechoasset-3095  [000] ....  7226.313044: 0x00000001: latency: 14192
-     myechoasset-3091  [000] ....  7226.901412: 0x00000001: latency: 25915
-     myechoasset-3095  [000] ....  7227.537637: 0x00000001: latency: 15185
-     myechoasset-3090  [000] ....  7228.053461: 0x00000001: latency: 14059
-     myechoasset-3095  [000] ....  7228.652444: 0x00000001: latency: 13306
-     myechoasset-3090  [000] ....  7229.324246: 0x00000001: latency: 13123
-     myechoasset-3091  [000] ....  7230.037225: 0x00000001: latency: 14364
-     myechoasset-3093  [001] ....  7230.582675: 0x00000001: latency: 13283
-     myechoasset-3093  [001] ....  7231.375684: 0x00000001: latency: 20532
-     myechoasset-3091  [002] ....  7232.023559: 0x00000001: latency: 13959
-     myechoasset-3093  [002] ....  7232.595177: 0x00000001: latency: 13563
-     myechoasset-3093  [002] ....  7233.194800: 0x00000001: latency: 27641
-     myechoasset-3095  [002] ....  7233.765402: 0x00000001: latency: 13976
-     myechoasset-3090  [002] ....  7234.462312: 0x00000001: latency: 13822
-     myechoasset-3090  [002] ....  7234.900304: 0x00000001: latency: 36984
-     myechoasset-3093  [003] ....  7235.646516: 0x00000001: latency: 13624
-     myechoasset-3091  [003] ....  7236.155832: 0x00000001: latency: 88233
-     myechoasset-3095  [000] ....  7236.881932: 0x00000001: latency: 14146
-     myechoasset-3093  [000] ....  7237.463760: 0x00000001: latency: 25888
-     myechoasset-3095  [000] ....  7238.129004: 0x00000001: latency: 14443
-     myechoasset-3093  [000] ....  7239.018465: 0x00000001: latency: 13560
-     myechoasset-3091  [000] ....  7239.690222: 0x00000001: latency: 14403
-     myechoasset-3091  [000] ....  7240.477616: 0x00000001: latency: 14525
-     myechoasset-3093  [000] ....  7241.098056: 0x00000001: latency: 13284
-     myechoasset-3095  [000] ....  7241.722690: 0x00000001: latency: 28635
-     myechoasset-3091  [000] ....  7242.476724: 0x00000001: latency: 13327
-     myechoasset-3093  [002] ....  7242.990041: 0x00000001: latency: 13949
-     myechoasset-3093  [002] ....  7243.593476: 0x00000001: latency: 13441
-     myechoasset-3090  [002] ....  7244.125934: 0x00000001: latency: 13802
-     myechoasset-3095  [002] ....  7244.707830: 0x00000001: latency: 13879
-     myechoasset-3090  [002] ....  7245.202195: 0x00000001: latency: 28436
-     myechoasset-3090  [002] ....  7245.852177: 0x00000001: latency: 15117
-     myechoasset-3090  [002] ....  7246.557011: 0x00000001: latency: 14009
-     myechoasset-3095  [002] ....  7247.337776: 0x00000001: latency: 13678
-     myechoasset-3090  [002] ....  7247.973291: 0x00000001: latency: 13593
-     myechoasset-3091  [000] ....  7248.629191: 0x00000001: latency: 13802
-     myechoasset-3095  [000] ....  7249.158093: 0x00000001: latency: 13295
-     myechoasset-3091  [003] ....  7249.926547: 0x00000001: latency: 13142
-     myechoasset-3090  [003] ....  7250.494082: 0x00000001: latency: 12758
-     myechoasset-3091  [003] ....  7251.024719: 0x00000001: latency: 14009
-     myechoasset-3091  [003] ....  7251.713557: 0x00000001: latency: 13569
-     myechoasset-3091  [003] ....  7252.395468: 0x00000001: latency: 14447
-     myechoasset-3091  [003] ....  7252.993208: 0x00000001: latency: 13614
-     myechoasset-3095  [003] ....  7253.500690: 0x00000001: latency: 13826
-     myechoasset-3093  [003] ....  7254.097360: 0x00000001: latency: 14090
-     myechoasset-3093  [003] ....  7254.653868: 0x00000001: latency: 85238
-     myechoasset-3093  [002] ....  7255.282096: 0x00000001: latency: 69299
-     myechoasset-3090  [002] ....  7255.894472: 0x00000001: latency: 13850
-     myechoasset-3095  [003] .N..  7256.376055: 0x00000001: latency: 13098
-     myechoasset-3095  [003] ....  7257.149038: 0x00000001: latency: 16196
-     myechoasset-3090  [002] ....  7257.709240: 0x00000001: latency: 13793
-     myechoasset-3091  [002] ....  7258.413761: 0x00000001: latency: 15007
-     myechoasset-3093  [002] ....  7259.080135: 0x00000001: latency: 13213
-     myechoasset-3090  [002] ....  7259.555487: 0x00000001: latency: 13782
-     myechoasset-3093  [002] ....  7260.401302: 0x00000001: latency: 13809
-     myechoasset-3091  [002] ....  7260.890103: 0x00000001: latency: 24689
-     myechoasset-3093  [002] ....  7261.448390: 0x00000001: latency: 14778
-     myechoasset-3090  [002] ....  7262.217562: 0x00000001: latency: 13431
-     myechoasset-3090  [002] ....  7262.876425: 0x00000001: latency: 13854
-     myechoasset-3091  [002] ....  7263.418452: 0x00000001: latency: 13911
-     myechoasset-3091  [002] ....  7264.086303: 0x00000001: latency: 13803
-     myechoasset-3093  [002] ....  7264.657951: 0x00000001: latency: 14370
-     myechoasset-3093  [001] ....  7265.090762: 0x00000001: latency: 14240
-     myechoasset-3091  [000] ....  7265.705050: 0x00000001: latency: 25036
-     myechoasset-3090  [000] ....  7266.249129: 0x00000001: latency: 12792
-     myechoasset-3090  [001] ....  7266.766967: 0x00000001: latency: 13178
-     myechoasset-3091  [001] ....  7267.423034: 0x00000001: latency: 134857
-     myechoasset-3093  [001] ....  7267.973126: 0x00000001: latency: 14016
-     myechoasset-3093  [001] ....  7268.477666: 0x00000001: latency: 13175
-     myechoasset-3093  [000] ....  7269.169474: 0x00000001: latency: 135132
-     myechoasset-3090  [002] ....  7269.827041: 0x00000001: latency: 14305
-     myechoasset-3091  [002] ....  7270.605557: 0x00000001: latency: 222879
-     myechoasset-3090  [002] ....  7271.383533: 0x00000001: latency: 13995
-     myechoasset-3093  [002] ....  7272.286373: 0x00000001: latency: 13840
-     myechoasset-3091  [002] ....  7272.894118: 0x00000001: latency: 13470
-     myechoasset-3091  [002] ....  7273.505353: 0x00000001: latency: 228682
-     myechoasset-3093  [002] ....  7273.981788: 0x00000001: latency: 16636
-     myechoasset-3090  [002] ....  7274.556287: 0x00000001: latency: 13422
-     myechoasset-3091  [002] ....  7275.187875: 0x00000001: latency: 12939
-     myechoasset-3095  [002] ....  7275.725143: 0x00000001: latency: 39886
-     myechoasset-3090  [002] ....  7276.353110: 0x00000001: latency: 261781
-     myechoasset-3091  [001] ....  7276.852200: 0x00000001: latency: 14047
-     myechoasset-3090  [001] ....  7277.516739: 0x00000001: latency: 14237
-     myechoasset-3093  [002] ....  7278.242856: 0x00000001: latency: 12935
-     myechoasset-3091  [002] ....  7278.919724: 0x00000001: latency: 135862
-     myechoasset-3095  [002] ....  7279.634638: 0x00000001: latency: 15721
-     myechoasset-3095  [002] ....  7280.172234: 0x00000001: latency: 15536
-     myechoasset-3093  [002] .N..  7280.753358: 0x00000001: latency: 147624
-     myechoasset-3095  [002] ....  7281.377544: 0x00000001: latency: 13031
-     myechoasset-3093  [002] ....  7282.035616: 0x00000001: latency: 24592
-     myechoasset-3095  [002] ....  7282.768914: 0x00000001: latency: 13829
-     myechoasset-3093  [002] ....  7283.305407: 0x00000001: latency: 13558
-     myechoasset-3095  [002] ....  7283.970450: 0x00000001: latency: 13701
-     myechoasset-3093  [002] ....  7284.547369: 0x00000001: latency: 111293
-     myechoasset-3095  [002] ....  7285.163374: 0x00000001: latency: 53577
-     myechoasset-3095  [002] ....  7285.848899: 0x00000001: latency: 1877610
-     myechoasset-3090  [002] ....  7286.509410: 0x00000001: latency: 13092
-     myechoasset-3091  [002] ....  7286.998679: 0x00000001: latency: 14149
-     myechoasset-3090  [002] ....  7287.776332: 0x00000001: latency: 13848
-     myechoasset-3093  [002] ....  7288.554447: 0x00000001: latency: 54024
-     myechoasset-3095  [001] ....  7289.134701: 0x00000001: latency: 14037
-     myechoasset-3090  [001] ....  7289.886888: 0x00000001: latency: 91535
-     myechoasset-3090  [001] ....  7290.580840: 0x00000001: latency: 13213
-     myechoasset-3093  [002] ....  7291.310960: 0x00000001: latency: 13580
-     myechoasset-3091  [002] ....  7292.000818: 0x00000001: latency: 14035
-     myechoasset-3091  [002] ....  7292.583416: 0x00000001: latency: 13720
-     myechoasset-3093  [000] ....  7293.257848: 0x00000001: latency: 13699
-     myechoasset-3091  [000] ....  7293.706446: 0x00000001: latency: 14030
-     myechoasset-3093  [002] ....  7294.422344: 0x00000001: latency: 13080
-     myechoasset-3091  [000] ....  7295.159434: 0x00000001: latency: 13311
-     myechoasset-3091  [001] ....  7295.729730: 0x00000001: latency: 13883
-     myechoasset-3091  [000] ....  7296.270745: 0x00000001: latency: 251829
-     myechoasset-3093  [002] ....  7296.852425: 0x00000001: latency: 51046
-     myechoasset-3090  [000] ....  7297.541836: 0x00000001: latency: 13740
-     myechoasset-3095  [001] ....  7298.029591: 0x00000001: latency: 14742
-     myechoasset-3093  [001] ....  7298.793881: 0x00000001: latency: 13063
-     myechoasset-3095  [001] ....  7299.582568: 0x00000001: latency: 13021
-     myechoasset-3094  [001] ....  7300.168393: 0x00000001: latency: 12479
-     myechoasset-3095  [001] ....  7300.720651: 0x00000001: latency: 12214
-     myechoasset-3095  [001] .n..  7301.261744: 0x00000001: latency: 135367
-     myechoasset-3095  [001] ....  7302.113152: 0x00000001: latency: 14358
-     myechoasset-3095  [001] ....  7302.659491: 0x00000001: latency: 13825
-     myechoasset-3093  [001] .n..  7303.254329: 0x00000001: latency: 13422
-     myechoasset-3093  [001] ....  7303.950332: 0x00000001: latency: 12252
-     myechoasset-3093  [001] ....  7304.473793: 0x00000001: latency: 13669
-     myechoasset-3094  [001] ....  7304.953176: 0x00000001: latency: 13730
-     myechoasset-3093  [001] ....  7305.534241: 0x00000001: latency: 13435
-     myechoasset-3091  [002] ....  7306.219696: 0x00000001: latency: 25459
-     myechoasset-3091  [000] ....  7306.864560: 0x00000001: latency: 13206
-     myechoasset-3095  [001] ....  7307.353777: 0x00000001: latency: 14425
-     myechoasset-3094  [001] ....  7307.830859: 0x00000001: latency: 14113
-     myechoasset-3095  [000] ....  7308.521531: 0x00000001: latency: 13588
-     myechoasset-3093  [000] ....  7309.017634: 0x00000001: latency: 147831
-     myechoasset-3094  [000] ....  7309.682987: 0x00000001: latency: 14303
-     myechoasset-3093  [000] ....  7310.338204: 0x00000001: latency: 13136
-     myechoasset-3091  [000] ....  7310.899909: 0x00000001: latency: 13147
-     myechoasset-3095  [000] ....  7311.466145: 0x00000001: latency: 14520
-     myechoasset-3095  [000] ....  7311.988305: 0x00000001: latency: 13547
-     myechoasset-3095  [000] ....  7312.552315: 0x00000001: latency: 13625
-     myechoasset-3091  [000] ....  7313.223523: 0x00000001: latency: 13854
-     myechoasset-3094  [000] ....  7313.906347: 0x00000001: latency: 14072
-     myechoasset-3094  [000] ....  7314.475850: 0x00000001: latency: 12885
-     myechoasset-3090  [000] .n..  7315.214406: 0x00000001: latency: 14266
-     myechoasset-3095  [000] ....  7315.829237: 0x00000001: latency: 14235
-     myechoasset-3090  [002] ....  7316.614441: 0x00000001: latency: 13898
-     myechoasset-3090  [002] ....  7317.365447: 0x00000001: latency: 13938
-     myechoasset-3091  [002] ....  7317.886416: 0x00000001: latency: 24788
-     myechoasset-3095  [002] ....  7318.442718: 0x00000001: latency: 70643
-     myechoasset-3090  [002] ....  7319.021053: 0x00000001: latency: 13608
-     myechoasset-3095  [002] ....  7319.604759: 0x00000001: latency: 255118
-     myechoasset-3090  [002] ....  7320.070381: 0x00000001: latency: 14247
-     myechoasset-3090  [002] ....  7320.613013: 0x00000001: latency: 13589
-     myechoasset-3094  [002] ....  7321.298168: 0x00000001: latency: 13048
-     myechoasset-3095  [000] ....  7321.952188: 0x00000001: latency: 13437
-     myechoasset-3095  [000] ....  7322.593423: 0x00000001: latency: 12890
-     myechoasset-3091  [000] ....  7323.270001: 0x00000001: latency: 13928
-     myechoasset-3094  [000] ....  7323.859887: 0x00000001: latency: 251017
-     myechoasset-3095  [000] ....  7324.745224: 0x00000001: latency: 13336
-     myechoasset-3090  [000] .N..  7325.400261: 0x00000001: latency: 13303
-     myechoasset-3091  [000] ....  7326.133691: 0x00000001: latency: 20842
-     myechoasset-3095  [000] ....  7326.843288: 0x00000001: latency: 13837
-     myechoasset-3095  [000] ....  7327.457597: 0x00000001: latency: 12832
-     myechoasset-3090  [000] ....  7328.085324: 0x00000001: latency: 39334
-     myechoasset-3091  [000] ....  7328.644583: 0x00000001: latency: 13257
-     myechoasset-3095  [000] ....  7329.225922: 0x00000001: latency: 13971
-     myechoasset-3090  [000] ....  7329.898297: 0x00000001: latency: 13758
-     myechoasset-3095  [000] ....  7330.513797: 0x00000001: latency: 13179
-     myechoasset-3090  [002] ....  7331.153573: 0x00000001: latency: 13500
-     myechoasset-3090  [002] ....  7331.710194: 0x00000001: latency: 12945
-     myechoasset-3091  [000] ....  7332.245453: 0x00000001: latency: 13430
-     myechoasset-3094  [000] ....  7332.877292: 0x00000001: latency: 13890
-     myechoasset-3091  [000] ....  7333.483127: 0x00000001: latency: 13325
-     myechoasset-3094  [000] ....  7334.274044: 0x00000001: latency: 13798
-     myechoasset-3094  [000] ....  7334.872474: 0x00000001: latency: 12866
-     myechoasset-3091  [000] ....  7335.534261: 0x00000001: latency: 14667
-     myechoasset-3093  [000] ....  7336.108503: 0x00000001: latency: 96798
-     myechoasset-3094  [002] ....  7336.723025: 0x00000001: latency: 14097
-     myechoasset-3094  [002] ....  7337.386925: 0x00000001: latency: 13907
-     myechoasset-3094  [002] ....  7338.011602: 0x00000001: latency: 248304
-     myechoasset-3093  [002] ....  7338.687447: 0x00000001: latency: 22781
-     myechoasset-3093  [002] ....  7339.248329: 0x00000001: latency: 131103
-     myechoasset-3094  [002] ....  7339.794368: 0x00000001: latency: 45709
-     myechoasset-3093  [002] ....  7340.365202: 0x00000001: latency: 13980
-     myechoasset-3095  [002] ....  7341.205003: 0x00000001: latency: 13497
-     myechoasset-3091  [002] ....  7341.833607: 0x00000001: latency: 13112
-     myechoasset-3095  [002] ....  7342.523497: 0x00000001: latency: 59902
-     myechoasset-3095  [002] ....  7343.111141: 0x00000001: latency: 14144
-     myechoasset-3093  [000] ....  7343.863383: 0x00000001: latency: 13230
-     myechoasset-3091  [000] ....  7344.677778: 0x00000001: latency: 40125
-     myechoasset-3095  [002] ....  7345.454146: 0x00000001: latency: 15894
-     myechoasset-3093  [000] ....  7346.117512: 0x00000001: latency: 13948
-     myechoasset-3095  [002] ....  7346.736624: 0x00000001: latency: 75615
-     myechoasset-3095  [000] ....  7347.448630: 0x00000001: latency: 24718
-     myechoasset-3094  [000] ....  7348.094117: 0x00000001: latency: 25034
-     myechoasset-3093  [000] ....  7348.566717: 0x00000001: latency: 13559
-     myechoasset-3095  [000] ....  7349.016429: 0x00000001: latency: 13162
-     myechoasset-3094  [000] ....  7349.795032: 0x00000001: latency: 14435
-     myechoasset-3093  [000] ....  7350.371169: 0x00000001: latency: 14847
-     myechoasset-3095  [003] ....  7351.114703: 0x00000001: latency: 15601
-     myechoasset-3095  [003] ....  7351.744182: 0x00000001: latency: 14468
-     myechoasset-3094  [003] ....  7352.393387: 0x00000001: latency: 13434
-     myechoasset-3093  [003] ....  7352.933257: 0x00000001: latency: 127142
-     myechoasset-3094  [003] ....  7353.667141: 0x00000001: latency: 14038
-     myechoasset-3095  [003] ....  7354.180456: 0x00000001: latency: 13277
-     myechoasset-3094  [003] ....  7354.990631: 0x00000001: latency: 12404
-     myechoasset-3091  [003] ....  7355.532803: 0x00000001: latency: 13602
-     myechoasset-3094  [003] ....  7356.034504: 0x00000001: latency: 13103
-     myechoasset-3091  [003] ....  7356.565308: 0x00000001: latency: 13620
-     myechoasset-3095  [002] ....  7357.453785: 0x00000001: latency: 251571
-     myechoasset-3094  [002] ....  7358.054745: 0x00000001: latency: 13915
-     myechoasset-3095  [002] ....  7358.521303: 0x00000001: latency: 14497
-     myechoasset-3094  [002] ....  7359.033543: 0x00000001: latency: 13226
-     myechoasset-3094  [002] ....  7359.816959: 0x00000001: latency: 91117
-     myechoasset-3093  [002] ....  7360.402505: 0x00000001: latency: 14260
-     myechoasset-3094  [002] ....  7360.878736: 0x00000001: latency: 54811
-     myechoasset-3095  [002] ....  7361.593854: 0x00000001: latency: 14262
-     myechoasset-3093  [002] ....  7362.377858: 0x00000001: latency: 14012
-     myechoasset-3095  [002] ....  7363.022380: 0x00000001: latency: 20209
-     myechoasset-3094  [002] ....  7363.693190: 0x00000001: latency: 248916
-     myechoasset-3093  [002] ....  7364.414890: 0x00000001: latency: 12338
-     myechoasset-3095  [002] ....  7365.031502: 0x00000001: latency: 13559
-     myechoasset-3094  [002] ....  7365.564171: 0x00000001: latency: 13786
-     myechoasset-3093  [000] .N..  7366.182043: 0x00000001: latency: 14169
-     myechoasset-3094  [002] ....  7366.987267: 0x00000001: latency: 13417
-     myechoasset-3093  [002] ....  7367.514997: 0x00000001: latency: 18330
-     myechoasset-3093  [002] ....  7368.413120: 0x00000001: latency: 12269
-     myechoasset-3095  [002] ....  7369.037951: 0x00000001: latency: 56491
-     myechoasset-3094  [002] ....  7369.780549: 0x00000001: latency: 15827
-     myechoasset-3090  [002] ....  7370.441222: 0x00000001: latency: 14779
-     myechoasset-3094  [002] ....  7371.178987: 0x00000001: latency: 12850
-     myechoasset-3090  [002] ....  7371.817138: 0x00000001: latency: 12768
-     myechoasset-3094  [002] ....  7372.391613: 0x00000001: latency: 13582
-     myechoasset-3090  [002] ....  7372.986007: 0x00000001: latency: 44347
-     myechoasset-3090  [002] ....  7373.683617: 0x00000001: latency: 13959
-     myechoasset-3091  [002] ....  7374.165676: 0x00000001: latency: 138891
-     myechoasset-3091  [002] ....  7374.743375: 0x00000001: latency: 93433
-     myechoasset-3090  [002] ....  7375.314536: 0x00000001: latency: 135682
-     myechoasset-3094  [002] ....  7375.798313: 0x00000001: latency: 146574
-     myechoasset-3091  [002] ....  7376.334351: 0x00000001: latency: 25600
-     myechoasset-3094  [002] ....  7377.009646: 0x00000001: latency: 199080
-     myechoasset-3094  [002] ....  7377.523654: 0x00000001: latency: 130528
-     myechoasset-3090  [002] ....  7377.985906: 0x00000001: latency: 94163
-     myechoasset-3095  [002] ....  7378.693649: 0x00000001: latency: 13875
-     myechoasset-3095  [002] ....  7379.232680: 0x00000001: latency: 126784
-     myechoasset-3095  [002] ....  7380.152989: 0x00000001: latency: 15165
-     myechoasset-3090  [002] ....  7380.753062: 0x00000001: latency: 13048
-     myechoasset-3091  [002] ....  7381.330227: 0x00000001: latency: 13002
-     myechoasset-3095  [002] ....  7381.950010: 0x00000001: latency: 128035
-     myechoasset-3090  [002] ....  7382.445084: 0x00000001: latency: 12521
-     myechoasset-3095  [002] ....  7383.001081: 0x00000001: latency: 84923
-     myechoasset-3091  [003] ....  7383.916377: 0x00000001: latency: 13823
-     myechoasset-3091  [003] ....  7384.622284: 0x00000001: latency: 13482
-     myechoasset-3095  [003] ....  7385.213820: 0x00000001: latency: 33676
-     myechoasset-3091  [003] ....  7385.674529: 0x00000001: latency: 13184
-     myechoasset-3090  [003] ....  7386.412707: 0x00000001: latency: 21215
-     myechoasset-3091  [003] ....  7387.139514: 0x00000001: latency: 15667
-     myechoasset-3091  [000] ....  7387.665481: 0x00000001: latency: 14109
-     myechoasset-3095  [000] ....  7388.338726: 0x00000001: latency: 12940
-     myechoasset-3090  [002] ....  7388.917193: 0x00000001: latency: 14048
-     myechoasset-3091  [002] ....  7389.539505: 0x00000001: latency: 13960
-     myechoasset-3090  [002] .N..  7390.128336: 0x00000001: latency: 149366
-     myechoasset-3091  [000] ....  7390.752114: 0x00000001: latency: 12868
-     myechoasset-3095  [000] ....  7391.266824: 0x00000001: latency: 13797
-     myechoasset-3090  [000] ....  7391.820426: 0x00000001: latency: 13069
-     myechoasset-3091  [003] ....  7392.425821: 0x00000001: latency: 14252
-     myechoasset-3090  [003] ....  7393.087271: 0x00000001: latency: 13506
-     myechoasset-3095  [000] ....  7393.818480: 0x00000001: latency: 13664
-     myechoasset-3091  [003] ....  7394.357387: 0x00000001: latency: 14015
-     myechoasset-3095  [003] ....  7395.085333: 0x00000001: latency: 15894
-     myechoasset-3091  [003] ....  7395.895186: 0x00000001: latency: 13986
-     myechoasset-3090  [003] ....  7396.485508: 0x00000001: latency: 13672
-     myechoasset-3095  [003] ....  7396.975448: 0x00000001: latency: 13671
-     myechoasset-3090  [003] ....  7397.537104: 0x00000001: latency: 250450
-     myechoasset-3091  [003] ....  7398.053616: 0x00000001: latency: 14085
-     myechoasset-3090  [003] ....  7398.849909: 0x00000001: latency: 13340
-     myechoasset-3091  [003] ....  7399.459662: 0x00000001: latency: 12984
-     myechoasset-3090  [003] ....  7399.927389: 0x00000001: latency: 13327
-     myechoasset-3094  [001] ....  7400.463495: 0x00000001: latency: 13758
-     myechoasset-3091  [001] ....  7401.062380: 0x00000001: latency: 13743
-     myechoasset-3095  [001] .n..  7401.658805: 0x00000001: latency: 131755
-     myechoasset-3095  [002] ....  7402.193566: 0x00000001: latency: 239161
-     myechoasset-3091  [002] ....  7402.784796: 0x00000001: latency: 13723
-     myechoasset-3095  [003] ....  7403.301559: 0x00000001: latency: 13750
-     myechoasset-3094  [003] ....  7403.784714: 0x00000001: latency: 14059
-     myechoasset-3095  [003] ....  7404.309057: 0x00000001: latency: 233409
-     myechoasset-3091  [002] ....  7404.902011: 0x00000001: latency: 19672
-     myechoasset-3094  [002] ....  7405.501447: 0x00000001: latency: 13482
-     myechoasset-3091  [002] ....  7406.190250: 0x00000001: latency: 14441
-     myechoasset-3090  [002] ....  7406.610025: 0x00000001: latency: 246035
-     myechoasset-3091  [003] ....  7407.214696: 0x00000001: latency: 24082
-     myechoasset-3094  [002] ....  7407.930581: 0x00000001: latency: 57682
-     myechoasset-3095  [002] ....  7408.620821: 0x00000001: latency: 14285
-     myechoasset-3094  [002] ....  7409.174111: 0x00000001: latency: 12705
-     myechoasset-3094  [002] ....  7409.773298: 0x00000001: latency: 53228
-     myechoasset-3090  [002] ....  7410.335979: 0x00000001: latency: 13840
-     myechoasset-3090  [002] ....  7410.936775: 0x00000001: latency: 14555
-     myechoasset-3095  [002] ....  7411.757385: 0x00000001: latency: 85130
-     myechoasset-3090  [002] ....  7412.476002: 0x00000001: latency: 459850
-     myechoasset-3094  [002] ....  7413.124713: 0x00000001: latency: 15212
-     myechoasset-3094  [002] ....  7413.725478: 0x00000001: latency: 13842
-     myechoasset-3090  [002] ....  7414.393207: 0x00000001: latency: 180467
-     myechoasset-3090  [002] ....  7415.120993: 0x00000001: latency: 13692
-     myechoasset-3095  [000] ....  7415.590566: 0x00000001: latency: 14766
-     myechoasset-3095  [000] ....  7416.274864: 0x00000001: latency: 30814
-     myechoasset-3094  [000] ....  7417.012489: 0x00000001: latency: 46329
-     myechoasset-3094  [000] ....  7417.558251: 0x00000001: latency: 43577
-     myechoasset-3095  [003] ....  7418.156851: 0x00000001: latency: 148352
-     myechoasset-3091  [003] ....  7418.786498: 0x00000001: latency: 13035
-     myechoasset-3095  [003] ....  7419.425734: 0x00000001: latency: 15165
-     myechoasset-3094  [003] ....  7420.134112: 0x00000001: latency: 14412
-     myechoasset-3095  [002] ....  7420.853498: 0x00000001: latency: 139556
-     myechoasset-3091  [002] ....  7421.690036: 0x00000001: latency: 132515
-     myechoasset-3091  [002] ....  7422.399129: 0x00000001: latency: 14147
-     myechoasset-3094  [002] ....  7423.006275: 0x00000001: latency: 13454
-     myechoasset-3094  [001] ....  7423.510091: 0x00000001: latency: 23494
-     myechoasset-3095  [002] ....  7424.226793: 0x00000001: latency: 12824
-     myechoasset-3093  [002] ....  7424.915498: 0x00000001: latency: 13146
-     myechoasset-3094  [002] ....  7425.535292: 0x00000001: latency: 13094
-     myechoasset-3093  [002] ....  7426.362222: 0x00000001: latency: 14360
-     myechoasset-3094  [002] ....  7427.034066: 0x00000001: latency: 13734
-     myechoasset-3093  [002] ....  7427.713330: 0x00000001: latency: 13678
-     myechoasset-3093  [002] ....  7428.315072: 0x00000001: latency: 14057
-     myechoasset-3093  [002] ....  7428.880392: 0x00000001: latency: 134763
-     myechoasset-3093  [002] ....  7429.397661: 0x00000001: latency: 131833
-     myechoasset-3094  [002] ....  7430.001308: 0x00000001: latency: 13978
-     myechoasset-3093  [002] ....  7430.630177: 0x00000001: latency: 138211
-     myechoasset-3094  [002] ....  7431.356560: 0x00000001: latency: 13528
-     myechoasset-3095  [000] ....  7432.041856: 0x00000001: latency: 14414
-     myechoasset-3091  [000] ....  7432.742144: 0x00000001: latency: 14362
-     myechoasset-3093  [002] .N..  7433.330364: 0x00000001: latency: 13530
-     myechoasset-3091  [002] ....  7434.043538: 0x00000001: latency: 186193
-     myechoasset-3095  [002] ....  7434.609803: 0x00000001: latency: 15177
-     myechoasset-3095  [002] ....  7435.278357: 0x00000001: latency: 13245
-     myechoasset-3095  [002] ....  7435.873652: 0x00000001: latency: 13547
-     myechoasset-3091  [000] ....  7436.353631: 0x00000001: latency: 13590
-     myechoasset-3095  [000] ....  7436.932980: 0x00000001: latency: 13637
-     myechoasset-3091  [000] ....  7437.584736: 0x00000001: latency: 14009
-     myechoasset-3095  [000] ....  7438.325283: 0x00000001: latency: 13746
-     myechoasset-3091  [000] ....  7438.901535: 0x00000001: latency: 14280
-     myechoasset-3093  [002] ....  7439.474053: 0x00000001: latency: 13489
-     myechoasset-3095  [000] ....  7440.186384: 0x00000001: latency: 13914
-     myechoasset-3095  [002] ....  7440.821828: 0x00000001: latency: 14196
-     myechoasset-3093  [002] ....  7441.282312: 0x00000001: latency: 13490
-     myechoasset-3095  [002] ....  7441.991806: 0x00000001: latency: 14116
-     myechoasset-3090  [002] ....  7442.757543: 0x00000001: latency: 13772
-     myechoasset-3091  [002] ....  7443.287165: 0x00000001: latency: 13203
-     myechoasset-3091  [002] ....  7444.017858: 0x00000001: latency: 13928
-     myechoasset-3095  [002] ....  7444.701487: 0x00000001: latency: 14746
-     myechoasset-3091  [002] ....  7445.319551: 0x00000001: latency: 12945
-     myechoasset-3090  [002] ....  7445.898423: 0x00000001: latency: 14938
-     myechoasset-3095  [002] ....  7446.589125: 0x00000001: latency: 13921
-     myechoasset-3091  [002] ....  7447.311604: 0x00000001: latency: 78541
-     myechoasset-3090  [002] ....  7447.794294: 0x00000001: latency: 13781
-     myechoasset-3091  [000] ....  7448.490849: 0x00000001: latency: 13329
-     myechoasset-3091  [000] ....  7449.156236: 0x00000001: latency: 88488
-     myechoasset-3090  [002] ....  7449.670058: 0x00000001: latency: 14966
-     myechoasset-3095  [002] ....  7450.178769: 0x00000001: latency: 136406
-     myechoasset-3091  [002] ....  7450.966964: 0x00000001: latency: 91858
-     myechoasset-3091  [002] ....  7451.597388: 0x00000001: latency: 760618
-     myechoasset-3095  [002] ....  7452.194508: 0x00000001: latency: 240544
-     myechoasset-3090  [002] ....  7452.809334: 0x00000001: latency: 12952
-     myechoasset-3090  [002] ....  7453.419416: 0x00000001: latency: 83835
-     myechoasset-3095  [002] ....  7454.134927: 0x00000001: latency: 14618
-     myechoasset-3091  [002] ....  7454.775746: 0x00000001: latency: 13142
-     myechoasset-3095  [002] ....  7455.281464: 0x00000001: latency: 13047
-     myechoasset-3095  [002] ....  7455.775157: 0x00000001: latency: 14401
-     myechoasset-3091  [002] ....  7456.424911: 0x00000001: latency: 13442
-     myechoasset-3090  [002] ....  7457.113272: 0x00000001: latency: 24515
-     myechoasset-3095  [002] ....  7457.742836: 0x00000001: latency: 14171
-     myechoasset-3095  [002] ....  7458.467154: 0x00000001: latency: 13750
-     myechoasset-3095  [002] ....  7459.240467: 0x00000001: latency: 93645
-     myechoasset-3090  [002] ....  7459.983910: 0x00000001: latency: 91440
-     myechoasset-3090  [001] ....  7460.547595: 0x00000001: latency: 14265
-     myechoasset-3095  [002] ....  7461.172261: 0x00000001: latency: 13660
-     myechoasset-3095  [001] ....  7461.772835: 0x00000001: latency: 13348
-     myechoasset-3093  [000] ....  7462.502149: 0x00000001: latency: 13266
-     myechoasset-3091  [000] ....  7463.164032: 0x00000001: latency: 27832
-     myechoasset-3095  [000] ....  7463.840711: 0x00000001: latency: 13922
-     myechoasset-3090  [000] ....  7464.485546: 0x00000001: latency: 14176
-     myechoasset-3091  [001] ....  7465.074002: 0x00000001: latency: 133615
-     myechoasset-3095  [000] ....  7465.623770: 0x00000001: latency: 13298
-     myechoasset-3093  [000] ....  7466.223289: 0x00000001: latency: 13190
-     myechoasset-3091  [000] ....  7466.821619: 0x00000001: latency: 14042
-     myechoasset-3095  [000] ....  7467.677456: 0x00000001: latency: 13402
-     myechoasset-3091  [000] ....  7468.426078: 0x00000001: latency: 13996
-     myechoasset-3091  [000] ....  7469.398314: 0x00000001: latency: 356481
-     myechoasset-3093  [000] ....  7470.110643: 0x00000001: latency: 35877
-     myechoasset-3090  [000] ....  7470.708578: 0x00000001: latency: 13575
-     myechoasset-3093  [000] ....  7471.350979: 0x00000001: latency: 14249
-     myechoasset-3091  [000] ....  7472.147848: 0x00000001: latency: 13393
-     myechoasset-3091  [003] ....  7472.839431: 0x00000001: latency: 14080
-     myechoasset-3093  [003] ....  7473.361342: 0x00000001: latency: 13942
-     myechoasset-3090  [003] ....  7473.961393: 0x00000001: latency: 14159
-     myechoasset-3091  [003] ....  7474.738254: 0x00000001: latency: 13849
-     myechoasset-3091  [000] ....  7475.337325: 0x00000001: latency: 13325
-     myechoasset-3090  [003] ....  7475.832123: 0x00000001: latency: 13486
-     myechoasset-3091  [003] ....  7476.527681: 0x00000001: latency: 13638
-     myechoasset-3091  [001] ....  7477.070687: 0x00000001: latency: 13881
-     myechoasset-3093  [003] .n..  7477.645131: 0x00000001: latency: 13970
-     myechoasset-3091  [001] ....  7478.253195: 0x00000001: latency: 13540
-     myechoasset-3091  [001] ....  7478.813484: 0x00000001: latency: 13945
-     myechoasset-3093  [001] ....  7479.472124: 0x00000001: latency: 15787
-     myechoasset-3090  [001] ....  7479.987497: 0x00000001: latency: 12629
-     myechoasset-3093  [001] ....  7480.618950: 0x00000001: latency: 11914
-     myechoasset-3090  [001] ....  7481.180983: 0x00000001: latency: 16764
-     myechoasset-3095  [000] ....  7481.835461: 0x00000001: latency: 14775
-     myechoasset-3093  [000] ....  7482.416128: 0x00000001: latency: 14253
-     myechoasset-3091  [000] ....  7483.003892: 0x00000001: latency: 13711
-     myechoasset-3093  [000] ....  7483.781066: 0x00000001: latency: 13776
-     myechoasset-3095  [000] ....  7484.426600: 0x00000001: latency: 13333
-     myechoasset-3093  [000] ....  7485.053190: 0x00000001: latency: 13637
-     myechoasset-3090  [000] ....  7485.810047: 0x00000001: latency: 50157
-     myechoasset-3093  [000] ....  7486.504603: 0x00000001: latency: 14194
-     myechoasset-3093  [000] ....  7487.014740: 0x00000001: latency: 13722
-     myechoasset-3093  [000] ....  7487.429650: 0x00000001: latency: 13028
-     myechoasset-3091  [000] ....  7487.918076: 0x00000001: latency: 13894
-     myechoasset-3093  [000] ....  7488.508149: 0x00000001: latency: 13886
-     myechoasset-3091  [000] ....  7489.141760: 0x00000001: latency: 16822
-     myechoasset-3090  [000] ....  7489.703210: 0x00000001: latency: 13103
-     myechoasset-3091  [000] ....  7490.300895: 0x00000001: latency: 13377
-     myechoasset-3091  [000] ....  7490.823961: 0x00000001: latency: 13818
-     myechoasset-3090  [000] ....  7491.645757: 0x00000001: latency: 13854
-     myechoasset-3093  [000] ....  7492.420485: 0x00000001: latency: 13490
-     myechoasset-3090  [000] ....  7492.986341: 0x00000001: latency: 13576
-     myechoasset-3094  [000] ....  7493.693453: 0x00000001: latency: 13374
-     myechoasset-3090  [000] ....  7494.356792: 0x00000001: latency: 14151
-     myechoasset-3090  [000] ....  7495.022948: 0x00000001: latency: 14581
-     myechoasset-3091  [000] ....  7495.557305: 0x00000001: latency: 13828
-     myechoasset-3094  [002] ....  7496.125781: 0x00000001: latency: 13744
-     myechoasset-3091  [002] ....  7496.959789: 0x00000001: latency: 90968
-     myechoasset-3093  [002] ....  7497.458225: 0x00000001: latency: 12811
-     myechoasset-3094  [000] ....  7498.107110: 0x00000001: latency: 13924
-     myechoasset-3091  [002] ....  7498.751111: 0x00000001: latency: 13139
-     myechoasset-3094  [002] ....  7499.339341: 0x00000001: latency: 15721
-     myechoasset-3093  [002] ....  7499.906357: 0x00000001: latency: 50956
-     myechoasset-3091  [002] ....  7500.492965: 0x00000001: latency: 13406
-     myechoasset-3091  [002] ....  7501.151018: 0x00000001: latency: 13368
-     myechoasset-3094  [002] ....  7501.760380: 0x00000001: latency: 13999
-     myechoasset-3093  [002] ....  7502.441303: 0x00000001: latency: 13903
-     myechoasset-3090  [002] ....  7503.330090: 0x00000001: latency: 26041
-     myechoasset-3091  [000] .N..  7503.951772: 0x00000001: latency: 14902
-     myechoasset-3093  [002] ....  7504.529199: 0x00000001: latency: 14537
-     myechoasset-3090  [002] ....  7505.185573: 0x00000001: latency: 270352
-     myechoasset-3091  [000] ....  7505.798487: 0x00000001: latency: 13162
-     myechoasset-3090  [000] ....  7506.418744: 0x00000001: latency: 407106
-     myechoasset-3093  [000] ....  7506.890484: 0x00000001: latency: 172081
-     myechoasset-3091  [000] ....  7507.489659: 0x00000001: latency: 14368
-     myechoasset-3090  [000] ....  7508.081597: 0x00000001: latency: 16382
-     myechoasset-3093  [000] ....  7508.798087: 0x00000001: latency: 13462
-     myechoasset-3093  [000] ....  7509.410634: 0x00000001: latency: 13500
-     myechoasset-3091  [000] ....  7510.210776: 0x00000001: latency: 15454
-     myechoasset-3091  [000] ....  7510.933670: 0x00000001: latency: 28896
-     myechoasset-3090  [000] ....  7511.634565: 0x00000001: latency: 13641
-     myechoasset-3093  [002] ....  7512.286772: 0x00000001: latency: 14784
-     myechoasset-3090  [002] ....  7512.870278: 0x00000001: latency: 12845
-     myechoasset-3093  [002] ....  7513.552959: 0x00000001: latency: 13270
-     myechoasset-3090  [002] ....  7514.234744: 0x00000001: latency: 13585
-     myechoasset-3090  [002] ....  7514.849716: 0x00000001: latency: 22292
-     myechoasset-3093  [002] ....  7515.578490: 0x00000001: latency: 13917
-     myechoasset-3090  [002] ....  7516.109969: 0x00000001: latency: 14826
-     myechoasset-3094  [001] ....  7516.858042: 0x00000001: latency: 24729
-     myechoasset-3090  [001] ....  7517.477344: 0x00000001: latency: 234893
-     myechoasset-3094  [001] ....  7518.250114: 0x00000001: latency: 13114
-     myechoasset-3091  [002] ....  7518.898008: 0x00000001: latency: 13582
-     myechoasset-3093  [002] ....  7519.443892: 0x00000001: latency: 209766
-     myechoasset-3091  [002] ....  7520.183872: 0x00000001: latency: 13395
-     myechoasset-3091  [002] ....  7520.749565: 0x00000001: latency: 14308
-     myechoasset-3095  [002] ....  7521.306338: 0x00000001: latency: 13617
-     myechoasset-3094  [000] ....  7521.894894: 0x00000001: latency: 29291
-     myechoasset-3095  [000] ....  7586.099719: 0x00000001: latency: 13105
-     myechoasset-11527 [002] ....  7586.889211: 0x00000001: latency: 12865
-     myechoasset-11528 [000] ....  7587.564709: 0x00000001: latency: 13331
-     myechoasset-3093  [000] ....  7588.143667: 0x00000001: latency: 13768
-     myechoasset-3093  [000] .N..  7588.751468: 0x00000001: latency: 42199
-     myechoasset-11527 [000] ....  7589.329344: 0x00000001: latency: 14029
-     myechoasset-3093  [000] ....  7590.066368: 0x00000001: latency: 13968
-     myechoasset-11528 [001] ....  7590.565790: 0x00000001: latency: 13336
-     myechoasset-11527 [001] ....  7591.132387: 0x00000001: latency: 13154
-     myechoasset-3090  [001] ....  7591.956647: 0x00000001: latency: 14213
-     myechoasset-11528 [001] ....  7592.614337: 0x00000001: latency: 13338
-     myechoasset-3090  [001] ....  7593.161858: 0x00000001: latency: 13430
-     myechoasset-11527 [002] ....  7593.886076: 0x00000001: latency: 14070
-     myechoasset-11528 [002] ....  7594.596779: 0x00000001: latency: 13816
-     myechoasset-11527 [002] ....  7595.153402: 0x00000001: latency: 24542
-     myechoasset-11527 [002] ....  7595.870550: 0x00000001: latency: 13650
-     myechoasset-11528 [002] ....  7596.493525: 0x00000001: latency: 12212
-     myechoasset-11527 [002] ....  7597.137403: 0x00000001: latency: 129492
-     myechoasset-11528 [002] ....  7597.850419: 0x00000001: latency: 13207
-     myechoasset-3091  [002] ....  7598.427319: 0x00000001: latency: 239931
-     myechoasset-11527 [001] ....  7599.242050: 0x00000001: latency: 13394
-     myechoasset-11528 [001] ....  7599.996133: 0x00000001: latency: 13219
-     myechoasset-11528 [001] ....  7600.745901: 0x00000001: latency: 242956
-     myechoasset-11527 [001] ....  7601.411502: 0x00000001: latency: 12728
-     myechoasset-3091  [002] ....  7602.117201: 0x00000001: latency: 13814
-     myechoasset-11528 [002] ....  7602.783085: 0x00000001: latency: 13310
-     myechoasset-3091  [001] ....  7603.419278: 0x00000001: latency: 13356
-     myechoasset-11528 [002] ....  7604.086315: 0x00000001: latency: 13815
-     myechoasset-3091  [003] ....  7604.612627: 0x00000001: latency: 23212
-     myechoasset-11527 [002] ....  7605.254032: 0x00000001: latency: 13719
-     myechoasset-3090  [002] ....  7606.130710: 0x00000001: latency: 14018
-     myechoasset-3090  [002] .N..  7606.674307: 0x00000001: latency: 14281
-     myechoasset-11527 [002] ....  7607.310893: 0x00000001: latency: 13564
-     myechoasset-11528 [002] ....  7608.091548: 0x00000001: latency: 13823
-     myechoasset-11527 [002] ....  7608.636991: 0x00000001: latency: 21288
-     myechoasset-11527 [002] ....  7609.127519: 0x00000001: latency: 14251
-     myechoasset-11528 [002] ....  7609.771426: 0x00000001: latency: 13342
-     myechoasset-11527 [002] ....  7610.401117: 0x00000001: latency: 13267
-     myechoasset-3091  [001] ....  7611.200140: 0x00000001: latency: 13474
-     myechoasset-3090  [002] ....  7611.912562: 0x00000001: latency: 13792
-     myechoasset-11527 [002] ....  7612.567335: 0x00000001: latency: 135419
-     myechoasset-11527 [002] ....  7613.217900: 0x00000001: latency: 26720
-     myechoasset-3093  [002] ....  7613.733681: 0x00000001: latency: 21512
-     myechoasset-3091  [000] ....  7614.376862: 0x00000001: latency: 14321
-     myechoasset-11528 [000] ....  7615.159059: 0x00000001: latency: 12983
-     myechoasset-3093  [000] ....  7615.642967: 0x00000001: latency: 14092
-     myechoasset-3091  [000] ....  7616.248168: 0x00000001: latency: 14159
-     myechoasset-3093  [000] ....  7616.946278: 0x00000001: latency: 170523
-     myechoasset-3093  [000] ....  7617.535155: 0x00000001: latency: 25027
-     myechoasset-11528 [000] ....  7618.151125: 0x00000001: latency: 13705
-     myechoasset-3091  [000] ....  7618.810943: 0x00000001: latency: 13372
-     myechoasset-3093  [000] ....  7619.682040: 0x00000001: latency: 14375
-     myechoasset-3093  [000] ....  7620.446085: 0x00000001: latency: 14427
-     myechoasset-3091  [002] ....  7621.081434: 0x00000001: latency: 14173
-     myechoasset-3093  [002] ....  7621.829309: 0x00000001: latency: 14524
-     myechoasset-3091  [002] ....  7622.391675: 0x00000001: latency: 18630
-     myechoasset-3091  [002] ....  7623.042413: 0x00000001: latency: 243465
-     myechoasset-11528 [002] ....  7623.693673: 0x00000001: latency: 14223
-     myechoasset-11528 [002] ....  7624.409058: 0x00000001: latency: 13733
-     myechoasset-3093  [002] ....  7625.150064: 0x00000001: latency: 13791
-     myechoasset-3091  [002] ....  7625.661362: 0x00000001: latency: 231705
-     myechoasset-3093  [000] ....  7626.218937: 0x00000001: latency: 407287
-     myechoasset-11527 [000] ....  7626.919557: 0x00000001: latency: 14901
-     myechoasset-11527 [000] ....  7627.479336: 0x00000001: latency: 14142
-     myechoasset-3093  [000] ....  7628.195062: 0x00000001: latency: 35856
-     myechoasset-3090  [000] ....  7628.770142: 0x00000001: latency: 13526
-     myechoasset-3093  [000] ....  7629.412990: 0x00000001: latency: 14119
-     myechoasset-3090  [000] ....  7629.954808: 0x00000001: latency: 13965
-     myechoasset-11527 [000] ....  7630.645153: 0x00000001: latency: 13959
-     myechoasset-3093  [002] ....  7631.265459: 0x00000001: latency: 13390
-     myechoasset-3090  [000] ....  7631.785884: 0x00000001: latency: 80523
-     myechoasset-3093  [000] .n..  7632.267749: 0x00000001: latency: 13309
-     myechoasset-3090  [000] ....  7632.857722: 0x00000001: latency: 18318
-     myechoasset-3093  [000] ....  7633.661706: 0x00000001: latency: 15180
-     myechoasset-3091  [002] ....  7634.277499: 0x00000001: latency: 13318
-     myechoasset-11528 [000] ....  7634.773339: 0x00000001: latency: 12921
-     myechoasset-3093  [002] ....  7635.402766: 0x00000001: latency: 12362
-     myechoasset-3091  [002] ....  7635.807218: 0x00000001: latency: 13485
-     myechoasset-3091  [003] ....  7636.312170: 0x00000001: latency: 42034
-     myechoasset-11528 [003] ....  7636.881461: 0x00000001: latency: 13380
-     myechoasset-3093  [003] ....  7637.466182: 0x00000001: latency: 24647
-     myechoasset-3093  [003] ....  7638.053352: 0x00000001: latency: 13522
-     myechoasset-3093  [003] ....  7638.581375: 0x00000001: latency: 13964
-     myechoasset-3093  [003] ....  7639.214427: 0x00000001: latency: 131125
-     myechoasset-3093  [003] ....  7639.936152: 0x00000001: latency: 13860
-     myechoasset-3093  [003] ....  7640.566170: 0x00000001: latency: 139294
-     myechoasset-11528 [003] ....  7641.097071: 0x00000001: latency: 15804
-     myechoasset-3093  [003] ....  7641.545530: 0x00000001: latency: 13724
-     myechoasset-3091  [003] ....  7642.153838: 0x00000001: latency: 14120
-     myechoasset-3093  [003] ....  7642.796828: 0x00000001: latency: 13723
-     myechoasset-11528 [003] ....  7643.397587: 0x00000001: latency: 14595
-     myechoasset-11528 [003] ....  7643.912897: 0x00000001: latency: 13613
-     myechoasset-11528 [003] ....  7644.473304: 0x00000001: latency: 12387
-     myechoasset-11528 [001] ....  7645.126183: 0x00000001: latency: 13843
-     myechoasset-3091  [000] ....  7645.673049: 0x00000001: latency: 24246
-     myechoasset-3091  [001] ....  7646.373277: 0x00000001: latency: 14204
-     myechoasset-11528 [001] ....  7646.845007: 0x00000001: latency: 13484
-     myechoasset-3090  [003] ....  7647.477379: 0x00000001: latency: 13327
-     myechoasset-3091  [001] ....  7647.991046: 0x00000001: latency: 20095
-     myechoasset-3090  [000] ....  7648.710814: 0x00000001: latency: 13612
-     myechoasset-3091  [000] ....  7649.423582: 0x00000001: latency: 13267
-     myechoasset-11527 [000] ....  9410.252967: 0x00000001: latency: 13137
-     myechoasset-11527 [002] ....  9410.453539: 0x00000001: latency: 14114
-     myechoasset-3091  [000] ....  9419.318959: 0x00000001: latency: 14161
-     myechoasset-3090  [000] ....  9419.516764: 0x00000001: latency: 13657
-     myechoasset-3091  [001] ....  9419.707529: 0x00000001: latency: 13407
-     myechoasset-3088  [001] ....  9419.901557: 0x00000001: latency: 13166
-     myechoasset-11527 [002] ....  9420.095701: 0x00000001: latency: 13277
-     myechoasset-3090  [002] ....  9420.287183: 0x00000001: latency: 13384
-     myechoasset-3091  [000] ....  9420.475029: 0x00000001: latency: 13351
+     myechoasset-23365 [001] ....  6870.015333: 0x00000001:  25839
+     myechoasset-23365 [001] ....  6870.658486: 0x00000001:  13138
+     myechoasset-23365 [001] ....  6871.395034: 0x00000001:  12834
+     myechoasset-23365 [002] ....  6871.950705: 0x00000001:  13879
+     myechoasset-23365 [002] ....  6872.437638: 0x00000001:  13016
+     myechoasset-21293 [002] ....  6873.023992: 0x00000001:  13392
+     myechoasset-21291 [000] ....  6873.641340: 0x00000001:  13620
+     myechoasset-21292 [000] ....  6874.458245: 0x00000001:  14770
+     myechoasset-21291 [000] ....  6884.905545: 0x00000001:  13000
+     myechoasset-21291 [000] ....  6885.613384: 0x00000001:  14948
+     myechoasset-21291 [000] ....  6886.291461: 0x00000001:  13340
+     myechoasset-21292 [002] ....  6887.050482: 0x00000001:  13253
+     myechoasset-23365 [002] ....  6887.682408: 0x00000001:  13818
+     myechoasset-21292 [002] ....  6888.325830: 0x00000001:  13798
+     myechoasset-21291 [002] ....  6889.064951: 0x00000001:  13299
+     myechoasset-21292 [002] ....  6889.857514: 0x00000001:  13791
+     myechoasset-23365 [002] ....  6890.398177: 0x00000001:  24655
+     myechoasset-21291 [002] ....  6891.121063: 0x00000001:  13572
+     myechoasset-23365 [003] ....  6891.716260: 0x00000001:  13580
+     myechoasset-21293 [003] ....  6892.462337: 0x00000001:  14032
+     myechoasset-21292 [003] ....  6893.117847: 0x00000001:  80758
+     myechoasset-23365 [003] ....  6893.665962: 0x00000001:  136552
+     myechoasset-21292 [003] ....  6894.261981: 0x00000001:  14253
+     myechoasset-21292 [002] ....  6894.986027: 0x00000001:  14094
+     myechoasset-23365 [002] ....  6895.583904: 0x00000001:  13498
+     myechoasset-23365 [002] ....  6896.237801: 0x00000001:  13337
+     myechoasset-21291 [002] ....  6896.814593: 0x00000001:  14000
+     myechoasset-23365 [002] ....  6897.571651: 0x00000001:  13162
+     myechoasset-23365 [002] ....  6898.259578: 0x00000001:  13675
+     myechoasset-21291 [002] ....  6898.963327: 0x00000001:  14135
+     myechoasset-23365 [002] ....  6899.671234: 0x00000001:  13092
+     myechoasset-21291 [002] ....  6900.258383: 0x00000001:  13625
+     myechoasset-21292 [002] ....  6900.895355: 0x00000001:  21035
+     myechoasset-23365 [002] ....  6901.581604: 0x00000001:  14001
+     myechoasset-23365 [002] ....  6902.233187: 0x00000001:  15949
+     myechoasset-21291 [000] ....  6902.968242: 0x00000001:  13288
+     myechoasset-21291 [002] ....  6903.727172: 0x00000001:  14039
+     myechoasset-23365 [002] ....  6904.557113: 0x00000001:  14306
+     myechoasset-21292 [003] ....  6905.215811: 0x00000001:  13641
+     myechoasset-23365 [003] ....  6905.871737: 0x00000001:  13028
+     myechoasset-21292 [003] ....  6906.522406: 0x00000001:  134424
+     myechoasset-23365 [002] ....  6907.320616: 0x00000001:  13718
+     myechoasset-21291 [002] ....  6908.033996: 0x00000001:  13909
+     myechoasset-21292 [002] ....  6908.990397: 0x00000001:  134517
+     myechoasset-21292 [002] ....  6909.601146: 0x00000001:  13685
+     myechoasset-23365 [002] ....  6910.333508: 0x00000001:  13652
+     myechoasset-21293 [003] ....  6910.865707: 0x00000001:  15360
+     myechoasset-21292 [000] ....  6911.505391: 0x00000001:  13384
+     myechoasset-21292 [000] ....  6912.177533: 0x00000001:  88954
+     myechoasset-23365 [000] ....  6912.834386: 0x00000001:  13992
+     myechoasset-21291 [000] ....  6913.492436: 0x00000001:  14265
+     myechoasset-23365 [000] ....  6914.088750: 0x00000001:  13837
+     myechoasset-21292 [000] ....  6914.778179: 0x00000001:  20194
+     myechoasset-21292 [000] ....  6915.345812: 0x00000001:  13832
+     myechoasset-21293 [000] ....  6915.962674: 0x00000001:  14004
+     myechoasset-21292 [000] ....  6916.629559: 0x00000001:  13588
+     myechoasset-21293 [003] ....  6917.135395: 0x00000001:  14087
+     myechoasset-21291 [002] ....  6917.702663: 0x00000001:  13478
+     myechoasset-21293 [002] ....  6918.175974: 0x00000001:  13714
+     myechoasset-21289 [002] ....  6918.813019: 0x00000001:  13915
+     myechoasset-21291 [002] ....  6919.382310: 0x00000001:  14319
+     myechoasset-21289 [002] ....  6920.109272: 0x00000001:  13963
+     myechoasset-21293 [002] .n..  6920.694608: 0x00000001:  13445
+     myechoasset-21292 [000] ....  6921.322819: 0x00000001:  14170
+     myechoasset-21291 [000] ....  6921.893828: 0x00000001:  12636
+     myechoasset-21289 [000] ....  6922.653969: 0x00000001:  13027
+     myechoasset-21291 [000] ....  6923.405933: 0x00000001:  13999
+     myechoasset-21289 [000] ....  6923.970859: 0x00000001:  13721
+     myechoasset-21292 [000] ....  6924.721642: 0x00000001:  12954
+     myechoasset-21292 [000] ....  6925.377319: 0x00000001:  13197
+     myechoasset-21289 [001] ....  6925.893982: 0x00000001:  12964
+     myechoasset-21292 [000] ....  6926.477790: 0x00000001:  14032
+     myechoasset-21289 [000] ....  6927.190535: 0x00000001:  15162
+     myechoasset-21289 [000] ....  6927.778717: 0x00000001:  13539
+     myechoasset-21292 [000] ....  6928.394538: 0x00000001:  13206
+     myechoasset-21291 [000] ....  6928.779378: 0x00000001:  13479
+     myechoasset-21292 [000] ....  6929.361232: 0x00000001:  14398
+     myechoasset-21289 [000] ....  6929.931770: 0x00000001:  13353
+     myechoasset-21293 [003] .n..  6930.532952: 0x00000001:  13401
+     myechoasset-21293 [003] ....  6931.121655: 0x00000001:  13719
+     myechoasset-21291 [003] ....  6931.709419: 0x00000001:  14049
+     myechoasset-21293 [003] ....  6932.340683: 0x00000001:  13675
+     myechoasset-21292 [003] .n..  6932.979467: 0x00000001:  14826
+     myechoasset-21292 [003] ....  6933.581307: 0x00000001:  121649
+     myechoasset-21293 [003] ....  6934.317139: 0x00000001:  86136
+     myechoasset-21291 [000] ....  6935.034176: 0x00000001:  20792
+     myechoasset-21289 [003] ....  6935.612306: 0x00000001:  22559
+     myechoasset-23365 [003] ....  6936.107287: 0x00000001:  13140
+     myechoasset-23365 [003] ....  6936.685287: 0x00000001:  14164
+     myechoasset-21289 [003] ....  6937.638356: 0x00000001:  12844
+     myechoasset-21291 [003] ....  6938.277452: 0x00000001:  12045
+     myechoasset-21289 [002] ....  6938.835139: 0x00000001:  264283
+     myechoasset-21289 [002] ....  6939.474237: 0x00000001:  13980
+     myechoasset-21291 [002] ....  6940.034471: 0x00000001:  13953
+     myechoasset-21289 [002] ....  6940.765445: 0x00000001:  137320
+     myechoasset-23365 [002] ....  6941.517541: 0x00000001:  13588
+     myechoasset-23365 [002] ....  6942.092108: 0x00000001:  13560
+     myechoasset-21289 [002] ....  6942.778982: 0x00000001:  13882
+     myechoasset-21293 [001] ....  6943.337719: 0x00000001:  14062
+     myechoasset-21292 [003] ....  6943.928130: 0x00000001:  23980
+     myechoasset-21293 [003] ....  6944.480524: 0x00000001:  12463
+     myechoasset-21292 [003] ....  6945.159257: 0x00000001:  12400
+     myechoasset-21292 [003] ....  6945.798537: 0x00000001:  12028
+     myechoasset-21291 [003] ....  6946.428173: 0x00000001:  24612
+     myechoasset-21292 [003] ....  6947.025096: 0x00000001:  12448
+     myechoasset-21291 [003] ....  6947.549646: 0x00000001:  24833
+     myechoasset-21291 [003] ....  6948.113008: 0x00000001:  85111
+     myechoasset-21292 [003] ....  6948.798804: 0x00000001:  13795
+     myechoasset-21293 [003] ....  6949.288907: 0x00000001:  14233
+     myechoasset-21292 [003] ....  6949.941842: 0x00000001:  15030
+     myechoasset-21293 [003] ....  6950.689082: 0x00000001:  13678
+     myechoasset-21292 [003] ....  6951.478089: 0x00000001:  13904
+     myechoasset-23365 [003] ....  6952.217210: 0x00000001:  13163
+     myechoasset-23365 [003] ....  6952.706042: 0x00000001:  13800
+     myechoasset-21292 [003] ....  6953.321127: 0x00000001:  241572
+     myechoasset-21292 [003] ....  6953.790791: 0x00000001:  85195
+     myechoasset-21292 [003] ....  6954.331164: 0x00000001:  13788
+     myechoasset-21291 [003] ....  6954.965856: 0x00000001:  12685
+     myechoasset-21292 [001] ....  6955.566473: 0x00000001:  13265
+     myechoasset-21291 [001] ....  6956.042149: 0x00000001:  55808
+     myechoasset-21291 [001] ....  6956.749208: 0x00000001:  13450
+     myechoasset-21293 [001] ....  6957.460441: 0x00000001:  97444
+     myechoasset-21291 [001] ....  6958.067496: 0x00000001:  13359
+     myechoasset-23365 [001] ....  6958.682874: 0x00000001:  82926
+     myechoasset-21293 [001] ....  6959.365956: 0x00000001:  49359
+     myechoasset-21292 [001] ....  6960.295243: 0x00000001:  12887
+     myechoasset-21293 [001] ....  6960.845185: 0x00000001:  12785
+     myechoasset-21292 [001] ....  6961.593620: 0x00000001:  12758
+     myechoasset-23365 [001] ....  6962.193110: 0x00000001:  13340
+     myechoasset-21292 [001] ....  6962.686208: 0x00000001:  12526
+     myechoasset-21293 [000] ....  6963.406531: 0x00000001:  13975
+     myechoasset-23365 [000] ....  6964.102202: 0x00000001:  77094
+     myechoasset-21293 [000] ....  6964.625177: 0x00000001:  238915
+     myechoasset-21292 [001] ....  6965.162669: 0x00000001:  13498
+     myechoasset-21293 [000] ....  6965.765468: 0x00000001:  13942
+     myechoasset-23365 [001] ....  6966.294501: 0x00000001:  35576
+     myechoasset-21293 [001] ....  6967.191669: 0x00000001:  127694
+     myechoasset-23365 [001] ....  6967.742824: 0x00000001:  13242
+     myechoasset-21293 [001] ....  6968.425500: 0x00000001:  12968
+     myechoasset-21292 [001] ....  6969.153853: 0x00000001:  13941
+     myechoasset-21293 [001] ....  6969.680626: 0x00000001:  23008
+     myechoasset-21292 [001] ....  6970.309379: 0x00000001:  13833
+     myechoasset-23365 [003] ....  6970.910497: 0x00000001:  13173
+     myechoasset-21292 [003] ....  6971.465462: 0x00000001:  13586
+     myechoasset-21289 [001] ....  6972.074885: 0x00000001:  13051
+     myechoasset-21293 [003] ....  6972.737158: 0x00000001:  134004
+     myechoasset-23365 [003] ....  6973.417785: 0x00000001:  12633
+     myechoasset-21293 [001] ....  6974.130779: 0x00000001:  13191
+     myechoasset-21293 [001] ....  6974.673641: 0x00000001:  13324
+     myechoasset-21289 [001] ....  6975.214945: 0x00000001:  13557
+     myechoasset-21289 [001] .N..  6975.865056: 0x00000001:  13341
+     myechoasset-21289 [002] ....  6976.428130: 0x00000001:  13081
+     myechoasset-21291 [002] ....  6977.089366: 0x00000001:  13962
+     myechoasset-21289 [003] ....  6977.632984: 0x00000001:  13075
+     myechoasset-21293 [003] ....  6978.186876: 0x00000001:  13357
+     myechoasset-21289 [003] ....  6978.804025: 0x00000001:  12625
+     myechoasset-21291 [003] ....  6979.418503: 0x00000001:  13976
+     myechoasset-21291 [003] ....  6980.039597: 0x00000001:  13429
+     myechoasset-21293 [003] ....  6980.732173: 0x00000001:  158981
+     myechoasset-21292 [002] ....  6981.437686: 0x00000001:  13444
+     myechoasset-21292 [002] ....  6982.189491: 0x00000001:  24072
+     myechoasset-21293 [003] ....  6982.805169: 0x00000001:  13762
+     myechoasset-21293 [003] ....  6983.502888: 0x00000001:  12753
+     myechoasset-21292 [003] ....  6984.153360: 0x00000001:  13614
+     myechoasset-21289 [003] ....  6984.777258: 0x00000001:  12781
+     myechoasset-21289 [003] ....  6985.317111: 0x00000001:  150635
+     myechoasset-21293 [003] ....  6985.969493: 0x00000001:  80480
+     myechoasset-21292 [003] ....  6986.793234: 0x00000001:  14317
+     myechoasset-21293 [003] ....  6987.494112: 0x00000001:  168609
+     myechoasset-21289 [001] ....  6988.213289: 0x00000001:  14995
+     myechoasset-21293 [003] ....  6988.798353: 0x00000001:  13353
+     myechoasset-21293 [002] ....  6989.345687: 0x00000001:  13593
+     myechoasset-21292 [003] ....  6989.891285: 0x00000001:  13352
+     myechoasset-21293 [003] ....  6990.554443: 0x00000001:  13370
+     myechoasset-21291 [003] ....  6991.298654: 0x00000001:  12993
+     myechoasset-21289 [002] ....  6991.955190: 0x00000001:  13712
+     myechoasset-21291 [002] ....  6992.499500: 0x00000001:  13036
+     myechoasset-21289 [003] ....  6992.993931: 0x00000001:  13880
+     myechoasset-21292 [003] ....  6993.690462: 0x00000001:  314642
+     myechoasset-21293 [003] ....  6994.268823: 0x00000001:  14900
+     myechoasset-21293 [003] ....  6995.018039: 0x00000001:  14107
+     myechoasset-21289 [003] ....  6995.607935: 0x00000001:  14511
+     myechoasset-21289 [003] ....  6996.232267: 0x00000001:  136119
+     myechoasset-21293 [001] ....  6996.912516: 0x00000001:  235698
+     myechoasset-21292 [001] ....  6997.349641: 0x00000001:  14466
+     myechoasset-21289 [001] ....  6997.929656: 0x00000001:  567804
+     myechoasset-21293 [003] ....  6998.695086: 0x00000001:  13770
+     myechoasset-21289 [001] ....  6999.404175: 0x00000001:  39704
+     myechoasset-21292 [003] ....  7000.021354: 0x00000001:  55421
+     myechoasset-21292 [003] ....  7000.601536: 0x00000001:  14233
+     myechoasset-21292 [003] ....  7001.302399: 0x00000001:  91387
+     myechoasset-21291 [003] ....  7001.920730: 0x00000001:  13406
+     myechoasset-21289 [001] ....  7002.602187: 0x00000001:  12539
+     myechoasset-21292 [003] ....  7003.149431: 0x00000001:  13233
+     myechoasset-21291 [003] ....  7003.934174: 0x00000001:  23838
+     myechoasset-21292 [003] ....  7004.622313: 0x00000001:  13480
+     myechoasset-21293 [002] ....  7005.318117: 0x00000001:  14090
+     myechoasset-21289 [001] ....  7006.128480: 0x00000001:  254559
+     myechoasset-21292 [001] ....  7007.105524: 0x00000001:  12730
+     myechoasset-21293 [001] ....  7007.889526: 0x00000001:  14011
+     myechoasset-21292 [001] ....  7008.469957: 0x00000001:  13191
+     myechoasset-21293 [000] ....  7009.037181: 0x00000001:  95478
+     myechoasset-21293 [001] ....  7009.711125: 0x00000001:  146676
+     myechoasset-21292 [001] ....  7010.313657: 0x00000001:  14035
+     myechoasset-21293 [002] ....  7010.840725: 0x00000001:  13725
+     myechoasset-21289 [001] ....  7011.379392: 0x00000001:  79156
+     myechoasset-21292 [001] ....  7012.036847: 0x00000001:  12868
+     myechoasset-21289 [001] ....  7012.776224: 0x00000001:  13487
+     myechoasset-21292 [001] ....  7013.337576: 0x00000001:  12932
+     myechoasset-21289 [001] ....  7013.983129: 0x00000001:  43622
+     myechoasset-21291 [001] ....  7014.627428: 0x00000001:  96834
+     myechoasset-21292 [001] ....  7015.274479: 0x00000001:  13801
+     myechoasset-21291 [001] ....  7015.801627: 0x00000001:  13267
+     myechoasset-21293 [001] ....  7016.613817: 0x00000001:  136570
+     myechoasset-21291 [001] ....  7017.253734: 0x00000001:  13502
+     myechoasset-21292 [002] ....  7017.736096: 0x00000001:  14117
+     myechoasset-21291 [002] ....  7018.235440: 0x00000001:  13127
+     myechoasset-21293 [001] ....  7018.998646: 0x00000001:  335744
+     myechoasset-21292 [001] ....  7019.526975: 0x00000001:  274185
+     myechoasset-21291 [001] ....  7020.305598: 0x00000001:  13206
+     myechoasset-21292 [001] ....  7020.769282: 0x00000001:  12735
+     myechoasset-21293 [001] ....  7021.450856: 0x00000001:  13769
+     myechoasset-21291 [001] ....  7022.178415: 0x00000001:  13812
+     myechoasset-21292 [001] ....  7022.674532: 0x00000001:  13073
+     myechoasset-21289 [001] ....  7023.302556: 0x00000001:  13224
+     myechoasset-21289 [000] ....  7024.074091: 0x00000001:  13730
+     myechoasset-21292 [000] ....  7024.799983: 0x00000001:  13791
+     myechoasset-21291 [002] ....  7025.433303: 0x00000001:  54639
+     myechoasset-21292 [002] ....  7026.106681: 0x00000001:  238809
+     myechoasset-21293 [002] ....  7026.838556: 0x00000001:  13631
+     myechoasset-21291 [002] ....  7027.589690: 0x00000001:  13734
+     myechoasset-21291 [002] ....  7028.308010: 0x00000001:  27878
+     myechoasset-21291 [003] ....  7028.953336: 0x00000001:  13838
+     myechoasset-21293 [001] ....  7029.716849: 0x00000001:  13185
+     myechoasset-21292 [001] ....  7030.305903: 0x00000001:  13782
+     myechoasset-21293 [001] ....  7031.025255: 0x00000001:  14057
+     myechoasset-21293 [001] .n..  7031.586716: 0x00000001:  82291
+     myechoasset-21292 [001] ....  7032.174631: 0x00000001:  12961
+     myechoasset-21293 [001] ....  7032.864784: 0x00000001:  14226
+     myechoasset-21291 [001] ....  7033.437077: 0x00000001:  13949
+     myechoasset-21291 [001] ....  7034.162841: 0x00000001:  13622
+     myechoasset-23365 [001] ....  7034.834346: 0x00000001:  26270
+     myechoasset-23365 [001] .N..  7035.584019: 0x00000001:  13738
+     myechoasset-21293 [003] ....  7036.310378: 0x00000001:  13432
+     myechoasset-21291 [003] ....  7036.869200: 0x00000001:  13315
+     myechoasset-21293 [003] ....  7037.610836: 0x00000001:  13753
+     myechoasset-23365 [003] ....  7038.398406: 0x00000001:  12440
+     myechoasset-21289 [003] ....  7038.939190: 0x00000001:  79786
+     myechoasset-21291 [003] ....  7039.582658: 0x00000001:  18883
+     myechoasset-23365 [003] ....  7040.202497: 0x00000001:  70884
+     myechoasset-21291 [003] ....  7040.757219: 0x00000001:  14356
+     myechoasset-21293 [003] ....  7041.666041: 0x00000001:  14148
+     myechoasset-21293 [003] ....  7042.376913: 0x00000001:  13418
+     myechoasset-21289 [003] ....  7043.270492: 0x00000001:  13117
+     myechoasset-21292 [003] ....  7043.959863: 0x00000001:  13088
+     myechoasset-21291 [003] ....  7044.558923: 0x00000001:  12030
+     myechoasset-21292 [003] ....  7045.255200: 0x00000001:  13388
+     myechoasset-21293 [003] ....  7046.007413: 0x00000001:  13137
+     myechoasset-21291 [000] ....  7046.762612: 0x00000001:  13404
+     myechoasset-21293 [000] ....  7047.393349: 0x00000001:  14685
+     myechoasset-23365 [000] ....  7048.166413: 0x00000001:  14187
+     myechoasset-21292 [000] ....  7048.571804: 0x00000001:  14192
+     myechoasset-21293 [000] ....  7049.178894: 0x00000001:  12937
+     myechoasset-21291 [000] .n..  7049.773062: 0x00000001:  15121
+     myechoasset-21291 [000] ....  7050.330365: 0x00000001:  84846
+     myechoasset-21291 [000] ....  7050.849595: 0x00000001:  11458
+     myechoasset-21293 [002] ....  7051.428617: 0x00000001:  13248
+     myechoasset-21291 [002] ....  7052.013223: 0x00000001:  13642
+     myechoasset-21292 [000] ....  7052.525428: 0x00000001:  13298
+     myechoasset-21292 [003] ....  7053.143180: 0x00000001:  13981
+     myechoasset-21292 [003] ....  7053.766570: 0x00000001:  14137
+     myechoasset-21292 [003] ....  7054.465979: 0x00000001:  14388
+     myechoasset-23365 [003] ....  7055.089543: 0x00000001:  12710
+     myechoasset-21293 [003] ....  7055.714097: 0x00000001:  13824
+     myechoasset-21292 [003] ....  7056.310728: 0x00000001:  256624
+     myechoasset-23365 [003] ....  7056.934036: 0x00000001:  13435
+     myechoasset-21293 [003] ....  7057.570299: 0x00000001:  12990
+     myechoasset-23365 [003] ....  7058.068158: 0x00000001:  13185
+     myechoasset-23365 [003] ....  7058.617374: 0x00000001:  14591
+     myechoasset-21293 [003] ....  7058.994956: 0x00000001:  12054
+     myechoasset-21292 [003] ....  7059.680095: 0x00000001:  13345
+     myechoasset-21292 [003] ....  7060.187962: 0x00000001:  13231
+     myechoasset-23365 [000] ....  7060.847352: 0x00000001:  12990
+     myechoasset-21293 [000] ....  7061.641665: 0x00000001:  13932
+     myechoasset-21292 [000] ....  7062.283368: 0x00000001:  14223
+     myechoasset-21293 [000] ....  7062.873081: 0x00000001:  13602
+     myechoasset-21292 [000] ....  7063.382031: 0x00000001:  11891
+     myechoasset-23365 [000] ....  7064.167852: 0x00000001:  13520
+     myechoasset-21293 [000] ....  7064.785523: 0x00000001:  13252
+     myechoasset-21292 [000] ....  7065.292005: 0x00000001:  13861
+     myechoasset-21292 [000] ....  7065.937523: 0x00000001:  13765
+     myechoasset-21292 [000] ....  7066.628724: 0x00000001:  14348
+     myechoasset-23365 [000] ....  7067.398268: 0x00000001:  14428
+     myechoasset-21293 [002] ....  7068.004269: 0x00000001:  12918
+     myechoasset-23365 [002] ....  7068.546979: 0x00000001:  12880
+     myechoasset-21291 [002] ....  7069.269446: 0x00000001:  13760
+     myechoasset-23365 [002] ....  7069.789023: 0x00000001:  12800
+     myechoasset-21293 [002] ....  7070.505508: 0x00000001:  14128
+     myechoasset-23365 [002] ....  7071.171869: 0x00000001:  14004
+     myechoasset-21293 [001] ....  7071.856049: 0x00000001:  12773
+     myechoasset-23365 [000] ....  7072.486353: 0x00000001:  13460
+     myechoasset-23365 [002] ....  7073.260863: 0x00000001:  14635
+     myechoasset-21292 [002] ....  7074.021343: 0x00000001:  13960
+     myechoasset-21292 [002] ....  7074.677296: 0x00000001:  14264
+     myechoasset-21293 [002] ....  7075.268923: 0x00000001:  13277
+     myechoasset-21292 [002] ....  7075.725494: 0x00000001:  13321
+     myechoasset-21292 [002] ....  7076.400875: 0x00000001:  13970
+     myechoasset-21291 [000] ....  7077.253260: 0x00000001:  16417
+     myechoasset-21291 [002] ....  7078.013489: 0x00000001:  15437
+     myechoasset-21292 [002] ....  7078.578391: 0x00000001:  208244
+     myechoasset-21293 [002] ....  7079.298623: 0x00000001:  13591
+     myechoasset-21291 [002] ....  7079.869156: 0x00000001:  53371
+     myechoasset-21292 [002] ....  7080.522034: 0x00000001:  13605
+     myechoasset-21293 [002] ....  7081.053277: 0x00000001:  13998
+     myechoasset-21292 [002] ....  7081.587884: 0x00000001:  13855
+     myechoasset-21291 [002] ....  7082.162392: 0x00000001:  13121
+     myechoasset-21292 [002] ....  7082.775955: 0x00000001:  14692
+     myechoasset-23365 [002] ....  7083.317398: 0x00000001:  13286
+     myechoasset-23365 [002] ....  7083.961232: 0x00000001:  14419
+     myechoasset-21293 [002] ....  7084.690556: 0x00000001:  28918
+     myechoasset-21292 [002] ....  7085.231611: 0x00000001:  239462
+     myechoasset-23365 [002] .N..  7085.702591: 0x00000001:  142891
+     myechoasset-21293 [002] ....  7086.320934: 0x00000001:  135529
+     myechoasset-21293 [002] ....  7086.930156: 0x00000001:  13653
+     myechoasset-21293 [002] ....  7087.586272: 0x00000001:  14072
+     myechoasset-21293 [002] ....  7088.106610: 0x00000001:  13039
+     myechoasset-23365 [003] ....  7088.723064: 0x00000001:  13211
+     myechoasset-21292 [002] ....  7089.305892: 0x00000001:  13002
+     myechoasset-23365 [003] ....  7089.873420: 0x00000001:  90835
+     myechoasset-21292 [003] ....  7090.514562: 0x00000001:  12745
+     myechoasset-21293 [003] ....  7091.250943: 0x00000001:  13061
+     myechoasset-21292 [003] .N..  7091.981472: 0x00000001:  326407
+     myechoasset-23365 [003] ....  7092.612556: 0x00000001:  13110
+     myechoasset-21292 [003] ....  7093.267874: 0x00000001:  250369
+     myechoasset-21293 [003] ....  7093.959376: 0x00000001:  127426
+     myechoasset-23365 [003] ....  7094.697242: 0x00000001:  12088
+     myechoasset-21293 [003] .N..  7095.260711: 0x00000001:  22144
+     myechoasset-21293 [003] ....  7095.936940: 0x00000001:  13982
+     myechoasset-21293 [003] ....  7096.522894: 0x00000001:  14085
+     myechoasset-21292 [003] ....  7097.058758: 0x00000001:  80035
+     myechoasset-21291 [003] ....  7097.674216: 0x00000001:  42609
+     myechoasset-21291 [003] ....  7098.265187: 0x00000001:  13740
+     myechoasset-21292 [003] .N..  7098.861276: 0x00000001:  11772
+     myechoasset-21291 [003] ....  7099.394048: 0x00000001:  14425
+     myechoasset-21292 [003] ....  7100.127922: 0x00000001:  12982
+     myechoasset-21293 [002] ....  7100.781970: 0x00000001:  13642
+     myechoasset-21292 [002] ....  7101.484406: 0x00000001:  13957
+     myechoasset-21292 [002] ....  7102.166234: 0x00000001:  66181
+     myechoasset-21292 [003] ....  7102.761951: 0x00000001:  13742
+     myechoasset-23365 [002] ....  7103.425723: 0x00000001:  134898
+     myechoasset-21292 [003] ....  7103.971862: 0x00000001:  13808
+     myechoasset-21293 [002] ....  7104.829620: 0x00000001:  14193
+     myechoasset-21291 [000] ....  7105.538038: 0x00000001:  13656
+     myechoasset-23365 [000] ....  7106.235605: 0x00000001:  13257
+     myechoasset-23365 [000] ....  7106.913280: 0x00000001:  222415
+     myechoasset-21293 [000] .N..  7107.462745: 0x00000001:  46319
+     myechoasset-21293 [000] ....  7108.063108: 0x00000001:  13440
+     myechoasset-21293 [001] ....  7108.618710: 0x00000001:  14839
+     myechoasset-21291 [001] ....  7109.260308: 0x00000001:  13314
+     myechoasset-21292 [000] ....  7109.929458: 0x00000001:  24347
+     myechoasset-21293 [000] ....  7110.718993: 0x00000001:  13182
+     myechoasset-21291 [001] ....  7111.609042: 0x00000001:  12718
+     myechoasset-21293 [000] ....  7112.176942: 0x00000001:  13818
+     myechoasset-21293 [000] ....  7112.899203: 0x00000001:  13519
+     myechoasset-21291 [000] ....  7113.515955: 0x00000001:  13295
+     myechoasset-21291 [000] ....  7114.277412: 0x00000001:  13921
+     myechoasset-21292 [002] ....  7114.773185: 0x00000001:  13917
+     myechoasset-21292 [002] ....  7115.292653: 0x00000001:  13341
+     myechoasset-21293 [002] ....  7115.833751: 0x00000001:  13684
+     myechoasset-21291 [002] ....  7116.454934: 0x00000001:  13149
+     myechoasset-23365 [000] ....  7117.052140: 0x00000001:  13812
+     myechoasset-23365 [002] ....  7117.733367: 0x00000001:  14683
+     myechoasset-21293 [002] ....  7118.462334: 0x00000001:  116547
+     myechoasset-21293 [002] ....  7119.121106: 0x00000001:  134945
+     myechoasset-21291 [002] ....  7119.821274: 0x00000001:  13912
+     myechoasset-23365 [002] ....  7120.722830: 0x00000001:  15127
+     myechoasset-23365 [000] ....  7121.475700: 0x00000001:  13247
+     myechoasset-21291 [002] ....  7121.894140: 0x00000001:  14413
+     myechoasset-23365 [000] ....  7122.508161: 0x00000001:  14006
+     myechoasset-21291 [002] ....  7123.230577: 0x00000001:  13389
+     myechoasset-23365 [002] ....  7123.922517: 0x00000001:  14563
+     myechoasset-21291 [002] ....  7124.542610: 0x00000001:  12387
+     myechoasset-23365 [002] ....  7125.190215: 0x00000001:  14033
+     myechoasset-21293 [002] ....  7125.870935: 0x00000001:  13858
+     myechoasset-21291 [002] ....  7126.375052: 0x00000001:  13687
+     myechoasset-21293 [002] ....  7127.100458: 0x00000001:  13280
+     myechoasset-21291 [002] ....  7127.908401: 0x00000001:  13483
+     myechoasset-23365 [002] ....  7128.598918: 0x00000001:  13242
+     myechoasset-21291 [002] ....  7129.237292: 0x00000001:  13482
+     myechoasset-21293 [002] ....  7129.883978: 0x00000001:  13237
+     myechoasset-21292 [002] ....  7130.516860: 0x00000001:  13912
+     myechoasset-23365 [002] ....  7131.201153: 0x00000001:  15462
+     myechoasset-23365 [000] ....  7131.689735: 0x00000001:  13510
+     myechoasset-21292 [000] ....  7132.437404: 0x00000001:  13798
+     myechoasset-21292 [000] ....  7133.092624: 0x00000001:  392713
+     myechoasset-21293 [000] ....  7133.637245: 0x00000001:  49118
+     myechoasset-23365 [000] ....  7134.244795: 0x00000001:  13140
+     myechoasset-23365 [000] ....  7134.862062: 0x00000001:  13506
+     myechoasset-21293 [000] ....  7135.461339: 0x00000001:  13675
+     myechoasset-21292 [000] ....  7136.018582: 0x00000001:  13183
+     myechoasset-23365 [000] ....  7136.625660: 0x00000001:  13642
+     myechoasset-21292 [000] ....  7137.463880: 0x00000001:  13393
+     myechoasset-23365 [000] ....  7138.116527: 0x00000001:  248151
+     myechoasset-21292 [000] ....  7138.709424: 0x00000001:  54928
+     myechoasset-21291 [000] ....  7139.370679: 0x00000001:  13313
+     myechoasset-21291 [000] ....  7140.174376: 0x00000001:  14544
+     myechoasset-21292 [000] ....  7140.837572: 0x00000001:  13744
+     myechoasset-21293 [000] ....  7141.711419: 0x00000001:  13770
+     myechoasset-21293 [000] ....  7142.233882: 0x00000001:  13037
+     myechoasset-21292 [000] ....  7142.938357: 0x00000001:  12577
+     myechoasset-21293 [002] ....  7143.501276: 0x00000001:  13166
+     myechoasset-23365 [002] ....  7143.944208: 0x00000001:  13723
+     myechoasset-21292 [002] ....  7144.574769: 0x00000001:  14999
+     myechoasset-21293 [002] ....  7145.249251: 0x00000001:  13643
+     myechoasset-21291 [002] .N..  7145.905788: 0x00000001:  12101
+     myechoasset-21292 [002] ....  7146.476847: 0x00000001:  13218
+     myechoasset-21291 [000] ....  7147.071134: 0x00000001:  13486
+     myechoasset-21293 [001] ....  7147.752199: 0x00000001:  14110
+     myechoasset-21291 [001] ....  7148.431081: 0x00000001:  14145
+     myechoasset-21292 [002] ....  7148.959476: 0x00000001:  14488
+     myechoasset-21292 [002] ....  7149.397792: 0x00000001:  135214
+     myechoasset-21292 [002] ....  7150.141557: 0x00000001:  13834
+     myechoasset-21292 [002] ....  7150.687370: 0x00000001:  13672
+     myechoasset-21291 [003] .N..  7151.386523: 0x00000001:  24697
+     myechoasset-21291 [003] ....  7151.981126: 0x00000001:  13443
+     myechoasset-21293 [003] ....  7152.558845: 0x00000001:  104569
+     myechoasset-21291 [003] ....  7153.094971: 0x00000001:  12827
+     myechoasset-21292 [003] ....  7153.742511: 0x00000001:  12822
+     myechoasset-21293 [003] ....  7154.291021: 0x00000001:  13145
+     myechoasset-21292 [000] ....  7154.949440: 0x00000001:  251678
+     myechoasset-23365 [000] ....  7155.566877: 0x00000001:  13435
+     myechoasset-23365 [000] ....  7156.290645: 0x00000001:  25447
+     myechoasset-23365 [000] ....  7156.783119: 0x00000001:  15205
+     myechoasset-21292 [000] ....  7157.464606: 0x00000001:  13301
+     myechoasset-21292 [000] ....  7158.120493: 0x00000001:  144192
+     myechoasset-21292 [000] ....  7158.774238: 0x00000001:  13995
+     myechoasset-21292 [000] ....  7159.447687: 0x00000001:  13373
+     myechoasset-21292 [003] ....  7160.075041: 0x00000001:  56051
+     myechoasset-21291 [003] ....  7160.780684: 0x00000001:  13287
+     myechoasset-23365 [003] ....  7161.405441: 0x00000001:  14056
+     myechoasset-21292 [003] ....  7162.209311: 0x00000001:  20460
+     myechoasset-21292 [003] .N..  7162.967268: 0x00000001:  143324
+     myechoasset-23365 [003] ....  7163.474640: 0x00000001:  14561
+     myechoasset-21291 [000] ....  7164.157922: 0x00000001:  37575
+     myechoasset-21292 [003] ....  7164.746567: 0x00000001:  14205
+     myechoasset-21292 [003] ....  7165.398830: 0x00000001:  16015
+     myechoasset-23365 [003] ....  7165.893618: 0x00000001:  13512
+     myechoasset-21293 [003] ....  7166.433078: 0x00000001:  13999
+     myechoasset-21292 [003] ....  7166.941287: 0x00000001:  13545
+     myechoasset-23365 [003] ....  7167.620754: 0x00000001:  12657
+     myechoasset-21293 [002] ....  7168.123286: 0x00000001:  13627
+     myechoasset-23365 [003] ....  7168.824759: 0x00000001:  13831
+     myechoasset-21292 [003] ....  7169.577133: 0x00000001:  13117
+     myechoasset-21291 [003] ....  7170.179512: 0x00000001:  13629
+     myechoasset-21292 [003] ....  7170.865629: 0x00000001:  14640
+     myechoasset-21291 [003] ....  7171.444970: 0x00000001:  13459
+     myechoasset-23365 [003] ....  7172.085420: 0x00000001:  13148
+     myechoasset-21291 [003] ....  7172.676371: 0x00000001:  14038
+     myechoasset-21292 [003] ....  7173.380204: 0x00000001:  14014
+     myechoasset-23365 [003] ....  7174.094029: 0x00000001:  13159
+     myechoasset-21291 [003] ....  7174.805886: 0x00000001:  13371
+     myechoasset-3094  [003] ....  7205.522583: 0x00000001:  23406
+     myechoasset-3090  [000] ....  7206.085999: 0x00000001:  22901
+     myechoasset-3094  [002] ....  7206.794873: 0x00000001:  15533
+     myechoasset-3094  [002] ....  7207.356246: 0x00000001:  13527
+     myechoasset-3090  [000] ....  7207.913716: 0x00000001:  550562
+     myechoasset-3094  [002] ....  7208.684768: 0x00000001:  13294
+     myechoasset-3094  [000] ....  7209.385208: 0x00000001:  15105
+     myechoasset-3090  [000] ....  7210.081264: 0x00000001:  13276
+     myechoasset-3094  [000] ....  7210.920257: 0x00000001:  13074
+     myechoasset-3090  [000] ....  7211.458359: 0x00000001:  267611
+     myechoasset-3094  [001] ....  7211.973099: 0x00000001:  15132
+     myechoasset-3091  [001] ....  7212.500958: 0x00000001:  13593
+     myechoasset-3094  [001] ....  7213.083537: 0x00000001:  13681
+     myechoasset-3090  [001] ....  7213.862038: 0x00000001:  88888
+     myechoasset-3095  [001] ....  7214.558448: 0x00000001:  13707
+     myechoasset-3095  [001] ....  7215.341823: 0x00000001:  82869
+     myechoasset-3095  [001] ....  7216.054466: 0x00000001:  13822
+     myechoasset-3095  [001] ....  7216.721401: 0x00000001:  207224
+     myechoasset-3095  [001] ....  7217.677383: 0x00000001:  13466
+     myechoasset-3093  [001] ....  7218.286501: 0x00000001:  13668
+     myechoasset-3093  [001] .N..  7218.857092: 0x00000001:  76798
+     myechoasset-3095  [001] ....  7219.565865: 0x00000001:  14300
+     myechoasset-3095  [003] ....  7220.279381: 0x00000001:  13435
+     myechoasset-3093  [001] ....  7221.037110: 0x00000001:  14043
+     myechoasset-3091  [000] ....  7221.737488: 0x00000001:  25436
+     myechoasset-3093  [001] ....  7222.315235: 0x00000001:  13569
+     myechoasset-3095  [000] ....  7222.986191: 0x00000001:  13159
+     myechoasset-3093  [001] ....  7223.507932: 0x00000001:  13203
+     myechoasset-3095  [000] ....  7224.176515: 0x00000001:  14829
+     myechoasset-3091  [002] ....  7224.892867: 0x00000001:  14943
+     myechoasset-3095  [000] ....  7225.709347: 0x00000001:  13948
+     myechoasset-3095  [000] ....  7226.313044: 0x00000001:  14192
+     myechoasset-3091  [000] ....  7226.901412: 0x00000001:  25915
+     myechoasset-3095  [000] ....  7227.537637: 0x00000001:  15185
+     myechoasset-3090  [000] ....  7228.053461: 0x00000001:  14059
+     myechoasset-3095  [000] ....  7228.652444: 0x00000001:  13306
+     myechoasset-3090  [000] ....  7229.324246: 0x00000001:  13123
+     myechoasset-3091  [000] ....  7230.037225: 0x00000001:  14364
+     myechoasset-3093  [001] ....  7230.582675: 0x00000001:  13283
+     myechoasset-3093  [001] ....  7231.375684: 0x00000001:  20532
+     myechoasset-3091  [002] ....  7232.023559: 0x00000001:  13959
+     myechoasset-3093  [002] ....  7232.595177: 0x00000001:  13563
+     myechoasset-3093  [002] ....  7233.194800: 0x00000001:  27641
+     myechoasset-3095  [002] ....  7233.765402: 0x00000001:  13976
+     myechoasset-3090  [002] ....  7234.462312: 0x00000001:  13822
+     myechoasset-3090  [002] ....  7234.900304: 0x00000001:  36984
+     myechoasset-3093  [003] ....  7235.646516: 0x00000001:  13624
+     myechoasset-3091  [003] ....  7236.155832: 0x00000001:  88233
+     myechoasset-3095  [000] ....  7236.881932: 0x00000001:  14146
+     myechoasset-3093  [000] ....  7237.463760: 0x00000001:  25888
+     myechoasset-3095  [000] ....  7238.129004: 0x00000001:  14443
+     myechoasset-3093  [000] ....  7239.018465: 0x00000001:  13560
+     myechoasset-3091  [000] ....  7239.690222: 0x00000001:  14403
+     myechoasset-3091  [000] ....  7240.477616: 0x00000001:  14525
+     myechoasset-3093  [000] ....  7241.098056: 0x00000001:  13284
+     myechoasset-3095  [000] ....  7241.722690: 0x00000001:  28635
+     myechoasset-3091  [000] ....  7242.476724: 0x00000001:  13327
+     myechoasset-3093  [002] ....  7242.990041: 0x00000001:  13949
+     myechoasset-3093  [002] ....  7243.593476: 0x00000001:  13441
+     myechoasset-3090  [002] ....  7244.125934: 0x00000001:  13802
+     myechoasset-3095  [002] ....  7244.707830: 0x00000001:  13879
+     myechoasset-3090  [002] ....  7245.202195: 0x00000001:  28436
+     myechoasset-3090  [002] ....  7245.852177: 0x00000001:  15117
+     myechoasset-3090  [002] ....  7246.557011: 0x00000001:  14009
+     myechoasset-3095  [002] ....  7247.337776: 0x00000001:  13678
+     myechoasset-3090  [002] ....  7247.973291: 0x00000001:  13593
+     myechoasset-3091  [000] ....  7248.629191: 0x00000001:  13802
+     myechoasset-3095  [000] ....  7249.158093: 0x00000001:  13295
+     myechoasset-3091  [003] ....  7249.926547: 0x00000001:  13142
+     myechoasset-3090  [003] ....  7250.494082: 0x00000001:  12758
+     myechoasset-3091  [003] ....  7251.024719: 0x00000001:  14009
+     myechoasset-3091  [003] ....  7251.713557: 0x00000001:  13569
+     myechoasset-3091  [003] ....  7252.395468: 0x00000001:  14447
+     myechoasset-3091  [003] ....  7252.993208: 0x00000001:  13614
+     myechoasset-3095  [003] ....  7253.500690: 0x00000001:  13826
+     myechoasset-3093  [003] ....  7254.097360: 0x00000001:  14090
+     myechoasset-3093  [003] ....  7254.653868: 0x00000001:  85238
+     myechoasset-3093  [002] ....  7255.282096: 0x00000001:  69299
+     myechoasset-3090  [002] ....  7255.894472: 0x00000001:  13850
+     myechoasset-3095  [003] .N..  7256.376055: 0x00000001:  13098
+     myechoasset-3095  [003] ....  7257.149038: 0x00000001:  16196
+     myechoasset-3090  [002] ....  7257.709240: 0x00000001:  13793
+     myechoasset-3091  [002] ....  7258.413761: 0x00000001:  15007
+     myechoasset-3093  [002] ....  7259.080135: 0x00000001:  13213
+     myechoasset-3090  [002] ....  7259.555487: 0x00000001:  13782
+     myechoasset-3093  [002] ....  7260.401302: 0x00000001:  13809
+     myechoasset-3091  [002] ....  7260.890103: 0x00000001:  24689
+     myechoasset-3093  [002] ....  7261.448390: 0x00000001:  14778
+     myechoasset-3090  [002] ....  7262.217562: 0x00000001:  13431
+     myechoasset-3090  [002] ....  7262.876425: 0x00000001:  13854
+     myechoasset-3091  [002] ....  7263.418452: 0x00000001:  13911
+     myechoasset-3091  [002] ....  7264.086303: 0x00000001:  13803
+     myechoasset-3093  [002] ....  7264.657951: 0x00000001:  14370
+     myechoasset-3093  [001] ....  7265.090762: 0x00000001:  14240
+     myechoasset-3091  [000] ....  7265.705050: 0x00000001:  25036
+     myechoasset-3090  [000] ....  7266.249129: 0x00000001:  12792
+     myechoasset-3090  [001] ....  7266.766967: 0x00000001:  13178
+     myechoasset-3091  [001] ....  7267.423034: 0x00000001:  134857
+     myechoasset-3093  [001] ....  7267.973126: 0x00000001:  14016
+     myechoasset-3093  [001] ....  7268.477666: 0x00000001:  13175
+     myechoasset-3093  [000] ....  7269.169474: 0x00000001:  135132
+     myechoasset-3090  [002] ....  7269.827041: 0x00000001:  14305
+     myechoasset-3091  [002] ....  7270.605557: 0x00000001:  222879
+     myechoasset-3090  [002] ....  7271.383533: 0x00000001:  13995
+     myechoasset-3093  [002] ....  7272.286373: 0x00000001:  13840
+     myechoasset-3091  [002] ....  7272.894118: 0x00000001:  13470
+     myechoasset-3091  [002] ....  7273.505353: 0x00000001:  228682
+     myechoasset-3093  [002] ....  7273.981788: 0x00000001:  16636
+     myechoasset-3090  [002] ....  7274.556287: 0x00000001:  13422
+     myechoasset-3091  [002] ....  7275.187875: 0x00000001:  12939
+     myechoasset-3095  [002] ....  7275.725143: 0x00000001:  39886
+     myechoasset-3090  [002] ....  7276.353110: 0x00000001:  261781
+     myechoasset-3091  [001] ....  7276.852200: 0x00000001:  14047
+     myechoasset-3090  [001] ....  7277.516739: 0x00000001:  14237
+     myechoasset-3093  [002] ....  7278.242856: 0x00000001:  12935
+     myechoasset-3091  [002] ....  7278.919724: 0x00000001:  135862
+     myechoasset-3095  [002] ....  7279.634638: 0x00000001:  15721
+     myechoasset-3095  [002] ....  7280.172234: 0x00000001:  15536
+     myechoasset-3093  [002] .N..  7280.753358: 0x00000001:  147624
+     myechoasset-3095  [002] ....  7281.377544: 0x00000001:  13031
+     myechoasset-3093  [002] ....  7282.035616: 0x00000001:  24592
+     myechoasset-3095  [002] ....  7282.768914: 0x00000001:  13829
+     myechoasset-3093  [002] ....  7283.305407: 0x00000001:  13558
+     myechoasset-3095  [002] ....  7283.970450: 0x00000001:  13701
+     myechoasset-3093  [002] ....  7284.547369: 0x00000001:  111293
+     myechoasset-3095  [002] ....  7285.163374: 0x00000001:  53577
+     myechoasset-3095  [002] ....  7285.848899: 0x00000001:  1877610
+     myechoasset-3090  [002] ....  7286.509410: 0x00000001:  13092
+     myechoasset-3091  [002] ....  7286.998679: 0x00000001:  14149
+     myechoasset-3090  [002] ....  7287.776332: 0x00000001:  13848
+     myechoasset-3093  [002] ....  7288.554447: 0x00000001:  54024
+     myechoasset-3095  [001] ....  7289.134701: 0x00000001:  14037
+     myechoasset-3090  [001] ....  7289.886888: 0x00000001:  91535
+     myechoasset-3090  [001] ....  7290.580840: 0x00000001:  13213
+     myechoasset-3093  [002] ....  7291.310960: 0x00000001:  13580
+     myechoasset-3091  [002] ....  7292.000818: 0x00000001:  14035
+     myechoasset-3091  [002] ....  7292.583416: 0x00000001:  13720
+     myechoasset-3093  [000] ....  7293.257848: 0x00000001:  13699
+     myechoasset-3091  [000] ....  7293.706446: 0x00000001:  14030
+     myechoasset-3093  [002] ....  7294.422344: 0x00000001:  13080
+     myechoasset-3091  [000] ....  7295.159434: 0x00000001:  13311
+     myechoasset-3091  [001] ....  7295.729730: 0x00000001:  13883
+     myechoasset-3091  [000] ....  7296.270745: 0x00000001:  251829
+     myechoasset-3093  [002] ....  7296.852425: 0x00000001:  51046
+     myechoasset-3090  [000] ....  7297.541836: 0x00000001:  13740
+     myechoasset-3095  [001] ....  7298.029591: 0x00000001:  14742
+     myechoasset-3093  [001] ....  7298.793881: 0x00000001:  13063
+     myechoasset-3095  [001] ....  7299.582568: 0x00000001:  13021
+     myechoasset-3094  [001] ....  7300.168393: 0x00000001:  12479
+     myechoasset-3095  [001] ....  7300.720651: 0x00000001:  12214
+     myechoasset-3095  [001] .n..  7301.261744: 0x00000001:  135367
+     myechoasset-3095  [001] ....  7302.113152: 0x00000001:  14358
+     myechoasset-3095  [001] ....  7302.659491: 0x00000001:  13825
+     myechoasset-3093  [001] .n..  7303.254329: 0x00000001:  13422
+     myechoasset-3093  [001] ....  7303.950332: 0x00000001:  12252
+     myechoasset-3093  [001] ....  7304.473793: 0x00000001:  13669
+     myechoasset-3094  [001] ....  7304.953176: 0x00000001:  13730
+     myechoasset-3093  [001] ....  7305.534241: 0x00000001:  13435
+     myechoasset-3091  [002] ....  7306.219696: 0x00000001:  25459
+     myechoasset-3091  [000] ....  7306.864560: 0x00000001:  13206
+     myechoasset-3095  [001] ....  7307.353777: 0x00000001:  14425
+     myechoasset-3094  [001] ....  7307.830859: 0x00000001:  14113
+     myechoasset-3095  [000] ....  7308.521531: 0x00000001:  13588
+     myechoasset-3093  [000] ....  7309.017634: 0x00000001:  147831
+     myechoasset-3094  [000] ....  7309.682987: 0x00000001:  14303
+     myechoasset-3093  [000] ....  7310.338204: 0x00000001:  13136
+     myechoasset-3091  [000] ....  7310.899909: 0x00000001:  13147
+     myechoasset-3095  [000] ....  7311.466145: 0x00000001:  14520
+     myechoasset-3095  [000] ....  7311.988305: 0x00000001:  13547
+     myechoasset-3095  [000] ....  7312.552315: 0x00000001:  13625
+     myechoasset-3091  [000] ....  7313.223523: 0x00000001:  13854
+     myechoasset-3094  [000] ....  7313.906347: 0x00000001:  14072
+     myechoasset-3094  [000] ....  7314.475850: 0x00000001:  12885
+     myechoasset-3090  [000] .n..  7315.214406: 0x00000001:  14266
+     myechoasset-3095  [000] ....  7315.829237: 0x00000001:  14235
+     myechoasset-3090  [002] ....  7316.614441: 0x00000001:  13898
+     myechoasset-3090  [002] ....  7317.365447: 0x00000001:  13938
+     myechoasset-3091  [002] ....  7317.886416: 0x00000001:  24788
+     myechoasset-3095  [002] ....  7318.442718: 0x00000001:  70643
+     myechoasset-3090  [002] ....  7319.021053: 0x00000001:  13608
+     myechoasset-3095  [002] ....  7319.604759: 0x00000001:  255118
+     myechoasset-3090  [002] ....  7320.070381: 0x00000001:  14247
+     myechoasset-3090  [002] ....  7320.613013: 0x00000001:  13589
+     myechoasset-3094  [002] ....  7321.298168: 0x00000001:  13048
+     myechoasset-3095  [000] ....  7321.952188: 0x00000001:  13437
+     myechoasset-3095  [000] ....  7322.593423: 0x00000001:  12890
+     myechoasset-3091  [000] ....  7323.270001: 0x00000001:  13928
+     myechoasset-3094  [000] ....  7323.859887: 0x00000001:  251017
+     myechoasset-3095  [000] ....  7324.745224: 0x00000001:  13336
+     myechoasset-3090  [000] .N..  7325.400261: 0x00000001:  13303
+     myechoasset-3091  [000] ....  7326.133691: 0x00000001:  20842
+     myechoasset-3095  [000] ....  7326.843288: 0x00000001:  13837
+     myechoasset-3095  [000] ....  7327.457597: 0x00000001:  12832
+     myechoasset-3090  [000] ....  7328.085324: 0x00000001:  39334
+     myechoasset-3091  [000] ....  7328.644583: 0x00000001:  13257
+     myechoasset-3095  [000] ....  7329.225922: 0x00000001:  13971
+     myechoasset-3090  [000] ....  7329.898297: 0x00000001:  13758
+     myechoasset-3095  [000] ....  7330.513797: 0x00000001:  13179
+     myechoasset-3090  [002] ....  7331.153573: 0x00000001:  13500
+     myechoasset-3090  [002] ....  7331.710194: 0x00000001:  12945
+     myechoasset-3091  [000] ....  7332.245453: 0x00000001:  13430
+     myechoasset-3094  [000] ....  7332.877292: 0x00000001:  13890
+     myechoasset-3091  [000] ....  7333.483127: 0x00000001:  13325
+     myechoasset-3094  [000] ....  7334.274044: 0x00000001:  13798
+     myechoasset-3094  [000] ....  7334.872474: 0x00000001:  12866
+     myechoasset-3091  [000] ....  7335.534261: 0x00000001:  14667
+     myechoasset-3093  [000] ....  7336.108503: 0x00000001:  96798
+     myechoasset-3094  [002] ....  7336.723025: 0x00000001:  14097
+     myechoasset-3094  [002] ....  7337.386925: 0x00000001:  13907
+     myechoasset-3094  [002] ....  7338.011602: 0x00000001:  248304
+     myechoasset-3093  [002] ....  7338.687447: 0x00000001:  22781
+     myechoasset-3093  [002] ....  7339.248329: 0x00000001:  131103
+     myechoasset-3094  [002] ....  7339.794368: 0x00000001:  45709
+     myechoasset-3093  [002] ....  7340.365202: 0x00000001:  13980
+     myechoasset-3095  [002] ....  7341.205003: 0x00000001:  13497
+     myechoasset-3091  [002] ....  7341.833607: 0x00000001:  13112
+     myechoasset-3095  [002] ....  7342.523497: 0x00000001:  59902
+     myechoasset-3095  [002] ....  7343.111141: 0x00000001:  14144
+     myechoasset-3093  [000] ....  7343.863383: 0x00000001:  13230
+     myechoasset-3091  [000] ....  7344.677778: 0x00000001:  40125
+     myechoasset-3095  [002] ....  7345.454146: 0x00000001:  15894
+     myechoasset-3093  [000] ....  7346.117512: 0x00000001:  13948
+     myechoasset-3095  [002] ....  7346.736624: 0x00000001:  75615
+     myechoasset-3095  [000] ....  7347.448630: 0x00000001:  24718
+     myechoasset-3094  [000] ....  7348.094117: 0x00000001:  25034
+     myechoasset-3093  [000] ....  7348.566717: 0x00000001:  13559
+     myechoasset-3095  [000] ....  7349.016429: 0x00000001:  13162
+     myechoasset-3094  [000] ....  7349.795032: 0x00000001:  14435
+     myechoasset-3093  [000] ....  7350.371169: 0x00000001:  14847
+     myechoasset-3095  [003] ....  7351.114703: 0x00000001:  15601
+     myechoasset-3095  [003] ....  7351.744182: 0x00000001:  14468
+     myechoasset-3094  [003] ....  7352.393387: 0x00000001:  13434
+     myechoasset-3093  [003] ....  7352.933257: 0x00000001:  127142
+     myechoasset-3094  [003] ....  7353.667141: 0x00000001:  14038
+     myechoasset-3095  [003] ....  7354.180456: 0x00000001:  13277
+     myechoasset-3094  [003] ....  7354.990631: 0x00000001:  12404
+     myechoasset-3091  [003] ....  7355.532803: 0x00000001:  13602
+     myechoasset-3094  [003] ....  7356.034504: 0x00000001:  13103
+     myechoasset-3091  [003] ....  7356.565308: 0x00000001:  13620
+     myechoasset-3095  [002] ....  7357.453785: 0x00000001:  251571
+     myechoasset-3094  [002] ....  7358.054745: 0x00000001:  13915
+     myechoasset-3095  [002] ....  7358.521303: 0x00000001:  14497
+     myechoasset-3094  [002] ....  7359.033543: 0x00000001:  13226
+     myechoasset-3094  [002] ....  7359.816959: 0x00000001:  91117
+     myechoasset-3093  [002] ....  7360.402505: 0x00000001:  14260
+     myechoasset-3094  [002] ....  7360.878736: 0x00000001:  54811
+     myechoasset-3095  [002] ....  7361.593854: 0x00000001:  14262
+     myechoasset-3093  [002] ....  7362.377858: 0x00000001:  14012
+     myechoasset-3095  [002] ....  7363.022380: 0x00000001:  20209
+     myechoasset-3094  [002] ....  7363.693190: 0x00000001:  248916
+     myechoasset-3093  [002] ....  7364.414890: 0x00000001:  12338
+     myechoasset-3095  [002] ....  7365.031502: 0x00000001:  13559
+     myechoasset-3094  [002] ....  7365.564171: 0x00000001:  13786
+     myechoasset-3093  [000] .N..  7366.182043: 0x00000001:  14169
+     myechoasset-3094  [002] ....  7366.987267: 0x00000001:  13417
+     myechoasset-3093  [002] ....  7367.514997: 0x00000001:  18330
+     myechoasset-3093  [002] ....  7368.413120: 0x00000001:  12269
+     myechoasset-3095  [002] ....  7369.037951: 0x00000001:  56491
+     myechoasset-3094  [002] ....  7369.780549: 0x00000001:  15827
+     myechoasset-3090  [002] ....  7370.441222: 0x00000001:  14779
+     myechoasset-3094  [002] ....  7371.178987: 0x00000001:  12850
+     myechoasset-3090  [002] ....  7371.817138: 0x00000001:  12768
+     myechoasset-3094  [002] ....  7372.391613: 0x00000001:  13582
+     myechoasset-3090  [002] ....  7372.986007: 0x00000001:  44347
+     myechoasset-3090  [002] ....  7373.683617: 0x00000001:  13959
+     myechoasset-3091  [002] ....  7374.165676: 0x00000001:  138891
+     myechoasset-3091  [002] ....  7374.743375: 0x00000001:  93433
+     myechoasset-3090  [002] ....  7375.314536: 0x00000001:  135682
+     myechoasset-3094  [002] ....  7375.798313: 0x00000001:  146574
+     myechoasset-3091  [002] ....  7376.334351: 0x00000001:  25600
+     myechoasset-3094  [002] ....  7377.009646: 0x00000001:  199080
+     myechoasset-3094  [002] ....  7377.523654: 0x00000001:  130528
+     myechoasset-3090  [002] ....  7377.985906: 0x00000001:  94163
+     myechoasset-3095  [002] ....  7378.693649: 0x00000001:  13875
+     myechoasset-3095  [002] ....  7379.232680: 0x00000001:  126784
+     myechoasset-3095  [002] ....  7380.152989: 0x00000001:  15165
+     myechoasset-3090  [002] ....  7380.753062: 0x00000001:  13048
+     myechoasset-3091  [002] ....  7381.330227: 0x00000001:  13002
+     myechoasset-3095  [002] ....  7381.950010: 0x00000001:  128035
+     myechoasset-3090  [002] ....  7382.445084: 0x00000001:  12521
+     myechoasset-3095  [002] ....  7383.001081: 0x00000001:  84923
+     myechoasset-3091  [003] ....  7383.916377: 0x00000001:  13823
+     myechoasset-3091  [003] ....  7384.622284: 0x00000001:  13482
+     myechoasset-3095  [003] ....  7385.213820: 0x00000001:  33676
+     myechoasset-3091  [003] ....  7385.674529: 0x00000001:  13184
+     myechoasset-3090  [003] ....  7386.412707: 0x00000001:  21215
+     myechoasset-3091  [003] ....  7387.139514: 0x00000001:  15667
+     myechoasset-3091  [000] ....  7387.665481: 0x00000001:  14109
+     myechoasset-3095  [000] ....  7388.338726: 0x00000001:  12940
+     myechoasset-3090  [002] ....  7388.917193: 0x00000001:  14048
+     myechoasset-3091  [002] ....  7389.539505: 0x00000001:  13960
+     myechoasset-3090  [002] .N..  7390.128336: 0x00000001:  149366
+     myechoasset-3091  [000] ....  7390.752114: 0x00000001:  12868
+     myechoasset-3095  [000] ....  7391.266824: 0x00000001:  13797
+     myechoasset-3090  [000] ....  7391.820426: 0x00000001:  13069
+     myechoasset-3091  [003] ....  7392.425821: 0x00000001:  14252
+     myechoasset-3090  [003] ....  7393.087271: 0x00000001:  13506
+     myechoasset-3095  [000] ....  7393.818480: 0x00000001:  13664
+     myechoasset-3091  [003] ....  7394.357387: 0x00000001:  14015
+     myechoasset-3095  [003] ....  7395.085333: 0x00000001:  15894
+     myechoasset-3091  [003] ....  7395.895186: 0x00000001:  13986
+     myechoasset-3090  [003] ....  7396.485508: 0x00000001:  13672
+     myechoasset-3095  [003] ....  7396.975448: 0x00000001:  13671
+     myechoasset-3090  [003] ....  7397.537104: 0x00000001:  250450
+     myechoasset-3091  [003] ....  7398.053616: 0x00000001:  14085
+     myechoasset-3090  [003] ....  7398.849909: 0x00000001:  13340
+     myechoasset-3091  [003] ....  7399.459662: 0x00000001:  12984
+     myechoasset-3090  [003] ....  7399.927389: 0x00000001:  13327
+     myechoasset-3094  [001] ....  7400.463495: 0x00000001:  13758
+     myechoasset-3091  [001] ....  7401.062380: 0x00000001:  13743
+     myechoasset-3095  [001] .n..  7401.658805: 0x00000001:  131755
+     myechoasset-3095  [002] ....  7402.193566: 0x00000001:  239161
+     myechoasset-3091  [002] ....  7402.784796: 0x00000001:  13723
+     myechoasset-3095  [003] ....  7403.301559: 0x00000001:  13750
+     myechoasset-3094  [003] ....  7403.784714: 0x00000001:  14059
+     myechoasset-3095  [003] ....  7404.309057: 0x00000001:  233409
+     myechoasset-3091  [002] ....  7404.902011: 0x00000001:  19672
+     myechoasset-3094  [002] ....  7405.501447: 0x00000001:  13482
+     myechoasset-3091  [002] ....  7406.190250: 0x00000001:  14441
+     myechoasset-3090  [002] ....  7406.610025: 0x00000001:  246035
+     myechoasset-3091  [003] ....  7407.214696: 0x00000001:  24082
+     myechoasset-3094  [002] ....  7407.930581: 0x00000001:  57682
+     myechoasset-3095  [002] ....  7408.620821: 0x00000001:  14285
+     myechoasset-3094  [002] ....  7409.174111: 0x00000001:  12705
+     myechoasset-3094  [002] ....  7409.773298: 0x00000001:  53228
+     myechoasset-3090  [002] ....  7410.335979: 0x00000001:  13840
+     myechoasset-3090  [002] ....  7410.936775: 0x00000001:  14555
+     myechoasset-3095  [002] ....  7411.757385: 0x00000001:  85130
+     myechoasset-3090  [002] ....  7412.476002: 0x00000001:  459850
+     myechoasset-3094  [002] ....  7413.124713: 0x00000001:  15212
+     myechoasset-3094  [002] ....  7413.725478: 0x00000001:  13842
+     myechoasset-3090  [002] ....  7414.393207: 0x00000001:  180467
+     myechoasset-3090  [002] ....  7415.120993: 0x00000001:  13692
+     myechoasset-3095  [000] ....  7415.590566: 0x00000001:  14766
+     myechoasset-3095  [000] ....  7416.274864: 0x00000001:  30814
+     myechoasset-3094  [000] ....  7417.012489: 0x00000001:  46329
+     myechoasset-3094  [000] ....  7417.558251: 0x00000001:  43577
+     myechoasset-3095  [003] ....  7418.156851: 0x00000001:  148352
+     myechoasset-3091  [003] ....  7418.786498: 0x00000001:  13035
+     myechoasset-3095  [003] ....  7419.425734: 0x00000001:  15165
+     myechoasset-3094  [003] ....  7420.134112: 0x00000001:  14412
+     myechoasset-3095  [002] ....  7420.853498: 0x00000001:  139556
+     myechoasset-3091  [002] ....  7421.690036: 0x00000001:  132515
+     myechoasset-3091  [002] ....  7422.399129: 0x00000001:  14147
+     myechoasset-3094  [002] ....  7423.006275: 0x00000001:  13454
+     myechoasset-3094  [001] ....  7423.510091: 0x00000001:  23494
+     myechoasset-3095  [002] ....  7424.226793: 0x00000001:  12824
+     myechoasset-3093  [002] ....  7424.915498: 0x00000001:  13146
+     myechoasset-3094  [002] ....  7425.535292: 0x00000001:  13094
+     myechoasset-3093  [002] ....  7426.362222: 0x00000001:  14360
+     myechoasset-3094  [002] ....  7427.034066: 0x00000001:  13734
+     myechoasset-3093  [002] ....  7427.713330: 0x00000001:  13678
+     myechoasset-3093  [002] ....  7428.315072: 0x00000001:  14057
+     myechoasset-3093  [002] ....  7428.880392: 0x00000001:  134763
+     myechoasset-3093  [002] ....  7429.397661: 0x00000001:  131833
+     myechoasset-3094  [002] ....  7430.001308: 0x00000001:  13978
+     myechoasset-3093  [002] ....  7430.630177: 0x00000001:  138211
+     myechoasset-3094  [002] ....  7431.356560: 0x00000001:  13528
+     myechoasset-3095  [000] ....  7432.041856: 0x00000001:  14414
+     myechoasset-3091  [000] ....  7432.742144: 0x00000001:  14362
+     myechoasset-3093  [002] .N..  7433.330364: 0x00000001:  13530
+     myechoasset-3091  [002] ....  7434.043538: 0x00000001:  186193
+     myechoasset-3095  [002] ....  7434.609803: 0x00000001:  15177
+     myechoasset-3095  [002] ....  7435.278357: 0x00000001:  13245
+     myechoasset-3095  [002] ....  7435.873652: 0x00000001:  13547
+     myechoasset-3091  [000] ....  7436.353631: 0x00000001:  13590
+     myechoasset-3095  [000] ....  7436.932980: 0x00000001:  13637
+     myechoasset-3091  [000] ....  7437.584736: 0x00000001:  14009
+     myechoasset-3095  [000] ....  7438.325283: 0x00000001:  13746
+     myechoasset-3091  [000] ....  7438.901535: 0x00000001:  14280
+     myechoasset-3093  [002] ....  7439.474053: 0x00000001:  13489
+     myechoasset-3095  [000] ....  7440.186384: 0x00000001:  13914
+     myechoasset-3095  [002] ....  7440.821828: 0x00000001:  14196
+     myechoasset-3093  [002] ....  7441.282312: 0x00000001:  13490
+     myechoasset-3095  [002] ....  7441.991806: 0x00000001:  14116
+     myechoasset-3090  [002] ....  7442.757543: 0x00000001:  13772
+     myechoasset-3091  [002] ....  7443.287165: 0x00000001:  13203
+     myechoasset-3091  [002] ....  7444.017858: 0x00000001:  13928
+     myechoasset-3095  [002] ....  7444.701487: 0x00000001:  14746
+     myechoasset-3091  [002] ....  7445.319551: 0x00000001:  12945
+     myechoasset-3090  [002] ....  7445.898423: 0x00000001:  14938
+     myechoasset-3095  [002] ....  7446.589125: 0x00000001:  13921
+     myechoasset-3091  [002] ....  7447.311604: 0x00000001:  78541
+     myechoasset-3090  [002] ....  7447.794294: 0x00000001:  13781
+     myechoasset-3091  [000] ....  7448.490849: 0x00000001:  13329
+     myechoasset-3091  [000] ....  7449.156236: 0x00000001:  88488
+     myechoasset-3090  [002] ....  7449.670058: 0x00000001:  14966
+     myechoasset-3095  [002] ....  7450.178769: 0x00000001:  136406
+     myechoasset-3091  [002] ....  7450.966964: 0x00000001:  91858
+     myechoasset-3091  [002] ....  7451.597388: 0x00000001:  760618
+     myechoasset-3095  [002] ....  7452.194508: 0x00000001:  240544
+     myechoasset-3090  [002] ....  7452.809334: 0x00000001:  12952
+     myechoasset-3090  [002] ....  7453.419416: 0x00000001:  83835
+     myechoasset-3095  [002] ....  7454.134927: 0x00000001:  14618
+     myechoasset-3091  [002] ....  7454.775746: 0x00000001:  13142
+     myechoasset-3095  [002] ....  7455.281464: 0x00000001:  13047
+     myechoasset-3095  [002] ....  7455.775157: 0x00000001:  14401
+     myechoasset-3091  [002] ....  7456.424911: 0x00000001:  13442
+     myechoasset-3090  [002] ....  7457.113272: 0x00000001:  24515
+     myechoasset-3095  [002] ....  7457.742836: 0x00000001:  14171
+     myechoasset-3095  [002] ....  7458.467154: 0x00000001:  13750
+     myechoasset-3095  [002] ....  7459.240467: 0x00000001:  93645
+     myechoasset-3090  [002] ....  7459.983910: 0x00000001:  91440
+     myechoasset-3090  [001] ....  7460.547595: 0x00000001:  14265
+     myechoasset-3095  [002] ....  7461.172261: 0x00000001:  13660
+     myechoasset-3095  [001] ....  7461.772835: 0x00000001:  13348
+     myechoasset-3093  [000] ....  7462.502149: 0x00000001:  13266
+     myechoasset-3091  [000] ....  7463.164032: 0x00000001:  27832
+     myechoasset-3095  [000] ....  7463.840711: 0x00000001:  13922
+     myechoasset-3090  [000] ....  7464.485546: 0x00000001:  14176
+     myechoasset-3091  [001] ....  7465.074002: 0x00000001:  133615
+     myechoasset-3095  [000] ....  7465.623770: 0x00000001:  13298
+     myechoasset-3093  [000] ....  7466.223289: 0x00000001:  13190
+     myechoasset-3091  [000] ....  7466.821619: 0x00000001:  14042
+     myechoasset-3095  [000] ....  7467.677456: 0x00000001:  13402
+     myechoasset-3091  [000] ....  7468.426078: 0x00000001:  13996
+     myechoasset-3091  [000] ....  7469.398314: 0x00000001:  356481
+     myechoasset-3093  [000] ....  7470.110643: 0x00000001:  35877
+     myechoasset-3090  [000] ....  7470.708578: 0x00000001:  13575
+     myechoasset-3093  [000] ....  7471.350979: 0x00000001:  14249
+     myechoasset-3091  [000] ....  7472.147848: 0x00000001:  13393
+     myechoasset-3091  [003] ....  7472.839431: 0x00000001:  14080
+     myechoasset-3093  [003] ....  7473.361342: 0x00000001:  13942
+     myechoasset-3090  [003] ....  7473.961393: 0x00000001:  14159
+     myechoasset-3091  [003] ....  7474.738254: 0x00000001:  13849
+     myechoasset-3091  [000] ....  7475.337325: 0x00000001:  13325
+     myechoasset-3090  [003] ....  7475.832123: 0x00000001:  13486
+     myechoasset-3091  [003] ....  7476.527681: 0x00000001:  13638
+     myechoasset-3091  [001] ....  7477.070687: 0x00000001:  13881
+     myechoasset-3093  [003] .n..  7477.645131: 0x00000001:  13970
+     myechoasset-3091  [001] ....  7478.253195: 0x00000001:  13540
+     myechoasset-3091  [001] ....  7478.813484: 0x00000001:  13945
+     myechoasset-3093  [001] ....  7479.472124: 0x00000001:  15787
+     myechoasset-3090  [001] ....  7479.987497: 0x00000001:  12629
+     myechoasset-3093  [001] ....  7480.618950: 0x00000001:  11914
+     myechoasset-3090  [001] ....  7481.180983: 0x00000001:  16764
+     myechoasset-3095  [000] ....  7481.835461: 0x00000001:  14775
+     myechoasset-3093  [000] ....  7482.416128: 0x00000001:  14253
+     myechoasset-3091  [000] ....  7483.003892: 0x00000001:  13711
+     myechoasset-3093  [000] ....  7483.781066: 0x00000001:  13776
+     myechoasset-3095  [000] ....  7484.426600: 0x00000001:  13333
+     myechoasset-3093  [000] ....  7485.053190: 0x00000001:  13637
+     myechoasset-3090  [000] ....  7485.810047: 0x00000001:  50157
+     myechoasset-3093  [000] ....  7486.504603: 0x00000001:  14194
+     myechoasset-3093  [000] ....  7487.014740: 0x00000001:  13722
+     myechoasset-3093  [000] ....  7487.429650: 0x00000001:  13028
+     myechoasset-3091  [000] ....  7487.918076: 0x00000001:  13894
+     myechoasset-3093  [000] ....  7488.508149: 0x00000001:  13886
+     myechoasset-3091  [000] ....  7489.141760: 0x00000001:  16822
+     myechoasset-3090  [000] ....  7489.703210: 0x00000001:  13103
+     myechoasset-3091  [000] ....  7490.300895: 0x00000001:  13377
+     myechoasset-3091  [000] ....  7490.823961: 0x00000001:  13818
+     myechoasset-3090  [000] ....  7491.645757: 0x00000001:  13854
+     myechoasset-3093  [000] ....  7492.420485: 0x00000001:  13490
+     myechoasset-3090  [000] ....  7492.986341: 0x00000001:  13576
+     myechoasset-3094  [000] ....  7493.693453: 0x00000001:  13374
+     myechoasset-3090  [000] ....  7494.356792: 0x00000001:  14151
+     myechoasset-3090  [000] ....  7495.022948: 0x00000001:  14581
+     myechoasset-3091  [000] ....  7495.557305: 0x00000001:  13828
+     myechoasset-3094  [002] ....  7496.125781: 0x00000001:  13744
+     myechoasset-3091  [002] ....  7496.959789: 0x00000001:  90968
+     myechoasset-3093  [002] ....  7497.458225: 0x00000001:  12811
+     myechoasset-3094  [000] ....  7498.107110: 0x00000001:  13924
+     myechoasset-3091  [002] ....  7498.751111: 0x00000001:  13139
+     myechoasset-3094  [002] ....  7499.339341: 0x00000001:  15721
+     myechoasset-3093  [002] ....  7499.906357: 0x00000001:  50956
+     myechoasset-3091  [002] ....  7500.492965: 0x00000001:  13406
+     myechoasset-3091  [002] ....  7501.151018: 0x00000001:  13368
+     myechoasset-3094  [002] ....  7501.760380: 0x00000001:  13999
+     myechoasset-3093  [002] ....  7502.441303: 0x00000001:  13903
+     myechoasset-3090  [002] ....  7503.330090: 0x00000001:  26041
+     myechoasset-3091  [000] .N..  7503.951772: 0x00000001:  14902
+     myechoasset-3093  [002] ....  7504.529199: 0x00000001:  14537
+     myechoasset-3090  [002] ....  7505.185573: 0x00000001:  270352
+     myechoasset-3091  [000] ....  7505.798487: 0x00000001:  13162
+     myechoasset-3090  [000] ....  7506.418744: 0x00000001:  407106
+     myechoasset-3093  [000] ....  7506.890484: 0x00000001:  172081
+     myechoasset-3091  [000] ....  7507.489659: 0x00000001:  14368
+     myechoasset-3090  [000] ....  7508.081597: 0x00000001:  16382
+     myechoasset-3093  [000] ....  7508.798087: 0x00000001:  13462
+     myechoasset-3093  [000] ....  7509.410634: 0x00000001:  13500
+     myechoasset-3091  [000] ....  7510.210776: 0x00000001:  15454
+     myechoasset-3091  [000] ....  7510.933670: 0x00000001:  28896
+     myechoasset-3090  [000] ....  7511.634565: 0x00000001:  13641
+     myechoasset-3093  [002] ....  7512.286772: 0x00000001:  14784
+     myechoasset-3090  [002] ....  7512.870278: 0x00000001:  12845
+     myechoasset-3093  [002] ....  7513.552959: 0x00000001:  13270
+     myechoasset-3090  [002] ....  7514.234744: 0x00000001:  13585
+     myechoasset-3090  [002] ....  7514.849716: 0x00000001:  22292
+     myechoasset-3093  [002] ....  7515.578490: 0x00000001:  13917
+     myechoasset-3090  [002] ....  7516.109969: 0x00000001:  14826
+     myechoasset-3094  [001] ....  7516.858042: 0x00000001:  24729
+     myechoasset-3090  [001] ....  7517.477344: 0x00000001:  234893
+     myechoasset-3094  [001] ....  7518.250114: 0x00000001:  13114
+     myechoasset-3091  [002] ....  7518.898008: 0x00000001:  13582
+     myechoasset-3093  [002] ....  7519.443892: 0x00000001:  209766
+     myechoasset-3091  [002] ....  7520.183872: 0x00000001:  13395
+     myechoasset-3091  [002] ....  7520.749565: 0x00000001:  14308
+     myechoasset-3095  [002] ....  7521.306338: 0x00000001:  13617
+     myechoasset-3094  [000] ....  7521.894894: 0x00000001:  29291
+     myechoasset-3095  [000] ....  7586.099719: 0x00000001:  13105
+     myechoasset-11527 [002] ....  7586.889211: 0x00000001:  12865
+     myechoasset-11528 [000] ....  7587.564709: 0x00000001:  13331
+     myechoasset-3093  [000] ....  7588.143667: 0x00000001:  13768
+     myechoasset-3093  [000] .N..  7588.751468: 0x00000001:  42199
+     myechoasset-11527 [000] ....  7589.329344: 0x00000001:  14029
+     myechoasset-3093  [000] ....  7590.066368: 0x00000001:  13968
+     myechoasset-11528 [001] ....  7590.565790: 0x00000001:  13336
+     myechoasset-11527 [001] ....  7591.132387: 0x00000001:  13154
+     myechoasset-3090  [001] ....  7591.956647: 0x00000001:  14213
+     myechoasset-11528 [001] ....  7592.614337: 0x00000001:  13338
+     myechoasset-3090  [001] ....  7593.161858: 0x00000001:  13430
+     myechoasset-11527 [002] ....  7593.886076: 0x00000001:  14070
+     myechoasset-11528 [002] ....  7594.596779: 0x00000001:  13816
+     myechoasset-11527 [002] ....  7595.153402: 0x00000001:  24542
+     myechoasset-11527 [002] ....  7595.870550: 0x00000001:  13650
+     myechoasset-11528 [002] ....  7596.493525: 0x00000001:  12212
+     myechoasset-11527 [002] ....  7597.137403: 0x00000001:  129492
+     myechoasset-11528 [002] ....  7597.850419: 0x00000001:  13207
+     myechoasset-3091  [002] ....  7598.427319: 0x00000001:  239931
+     myechoasset-11527 [001] ....  7599.242050: 0x00000001:  13394
+     myechoasset-11528 [001] ....  7599.996133: 0x00000001:  13219
+     myechoasset-11528 [001] ....  7600.745901: 0x00000001:  242956
+     myechoasset-11527 [001] ....  7601.411502: 0x00000001:  12728
+     myechoasset-3091  [002] ....  7602.117201: 0x00000001:  13814
+     myechoasset-11528 [002] ....  7602.783085: 0x00000001:  13310
+     myechoasset-3091  [001] ....  7603.419278: 0x00000001:  13356
+     myechoasset-11528 [002] ....  7604.086315: 0x00000001:  13815
+     myechoasset-3091  [003] ....  7604.612627: 0x00000001:  23212
+     myechoasset-11527 [002] ....  7605.254032: 0x00000001:  13719
+     myechoasset-3090  [002] ....  7606.130710: 0x00000001:  14018
+     myechoasset-3090  [002] .N..  7606.674307: 0x00000001:  14281
+     myechoasset-11527 [002] ....  7607.310893: 0x00000001:  13564
+     myechoasset-11528 [002] ....  7608.091548: 0x00000001:  13823
+     myechoasset-11527 [002] ....  7608.636991: 0x00000001:  21288
+     myechoasset-11527 [002] ....  7609.127519: 0x00000001:  14251
+     myechoasset-11528 [002] ....  7609.771426: 0x00000001:  13342
+     myechoasset-11527 [002] ....  7610.401117: 0x00000001:  13267
+     myechoasset-3091  [001] ....  7611.200140: 0x00000001:  13474
+     myechoasset-3090  [002] ....  7611.912562: 0x00000001:  13792
+     myechoasset-11527 [002] ....  7612.567335: 0x00000001:  135419
+     myechoasset-11527 [002] ....  7613.217900: 0x00000001:  26720
+     myechoasset-3093  [002] ....  7613.733681: 0x00000001:  21512
+     myechoasset-3091  [000] ....  7614.376862: 0x00000001:  14321
+     myechoasset-11528 [000] ....  7615.159059: 0x00000001:  12983
+     myechoasset-3093  [000] ....  7615.642967: 0x00000001:  14092
+     myechoasset-3091  [000] ....  7616.248168: 0x00000001:  14159
+     myechoasset-3093  [000] ....  7616.946278: 0x00000001:  170523
+     myechoasset-3093  [000] ....  7617.535155: 0x00000001:  25027
+     myechoasset-11528 [000] ....  7618.151125: 0x00000001:  13705
+     myechoasset-3091  [000] ....  7618.810943: 0x00000001:  13372
+     myechoasset-3093  [000] ....  7619.682040: 0x00000001:  14375
+     myechoasset-3093  [000] ....  7620.446085: 0x00000001:  14427
+     myechoasset-3091  [002] ....  7621.081434: 0x00000001:  14173
+     myechoasset-3093  [002] ....  7621.829309: 0x00000001:  14524
+     myechoasset-3091  [002] ....  7622.391675: 0x00000001:  18630
+     myechoasset-3091  [002] ....  7623.042413: 0x00000001:  243465
+     myechoasset-11528 [002] ....  7623.693673: 0x00000001:  14223
+     myechoasset-11528 [002] ....  7624.409058: 0x00000001:  13733
+     myechoasset-3093  [002] ....  7625.150064: 0x00000001:  13791
+     myechoasset-3091  [002] ....  7625.661362: 0x00000001:  231705
+     myechoasset-3093  [000] ....  7626.218937: 0x00000001:  407287
+     myechoasset-11527 [000] ....  7626.919557: 0x00000001:  14901
+     myechoasset-11527 [000] ....  7627.479336: 0x00000001:  14142
+     myechoasset-3093  [000] ....  7628.195062: 0x00000001:  35856
+     myechoasset-3090  [000] ....  7628.770142: 0x00000001:  13526
+     myechoasset-3093  [000] ....  7629.412990: 0x00000001:  14119
+     myechoasset-3090  [000] ....  7629.954808: 0x00000001:  13965
+     myechoasset-11527 [000] ....  7630.645153: 0x00000001:  13959
+     myechoasset-3093  [002] ....  7631.265459: 0x00000001:  13390
+     myechoasset-3090  [000] ....  7631.785884: 0x00000001:  80523
+     myechoasset-3093  [000] .n..  7632.267749: 0x00000001:  13309
+     myechoasset-3090  [000] ....  7632.857722: 0x00000001:  18318
+     myechoasset-3093  [000] ....  7633.661706: 0x00000001:  15180
+     myechoasset-3091  [002] ....  7634.277499: 0x00000001:  13318
+     myechoasset-11528 [000] ....  7634.773339: 0x00000001:  12921
+     myechoasset-3093  [002] ....  7635.402766: 0x00000001:  12362
+     myechoasset-3091  [002] ....  7635.807218: 0x00000001:  13485
+     myechoasset-3091  [003] ....  7636.312170: 0x00000001:  42034
+     myechoasset-11528 [003] ....  7636.881461: 0x00000001:  13380
+     myechoasset-3093  [003] ....  7637.466182: 0x00000001:  24647
+     myechoasset-3093  [003] ....  7638.053352: 0x00000001:  13522
+     myechoasset-3093  [003] ....  7638.581375: 0x00000001:  13964
+     myechoasset-3093  [003] ....  7639.214427: 0x00000001:  131125
+     myechoasset-3093  [003] ....  7639.936152: 0x00000001:  13860
+     myechoasset-3093  [003] ....  7640.566170: 0x00000001:  139294
+     myechoasset-11528 [003] ....  7641.097071: 0x00000001:  15804
+     myechoasset-3093  [003] ....  7641.545530: 0x00000001:  13724
+     myechoasset-3091  [003] ....  7642.153838: 0x00000001:  14120
+     myechoasset-3093  [003] ....  7642.796828: 0x00000001:  13723
+     myechoasset-11528 [003] ....  7643.397587: 0x00000001:  14595
+     myechoasset-11528 [003] ....  7643.912897: 0x00000001:  13613
+     myechoasset-11528 [003] ....  7644.473304: 0x00000001:  12387
+     myechoasset-11528 [001] ....  7645.126183: 0x00000001:  13843
+     myechoasset-3091  [000] ....  7645.673049: 0x00000001:  24246
+     myechoasset-3091  [001] ....  7646.373277: 0x00000001:  14204
+     myechoasset-11528 [001] ....  7646.845007: 0x00000001:  13484
+     myechoasset-3090  [003] ....  7647.477379: 0x00000001:  13327
+     myechoasset-3091  [001] ....  7647.991046: 0x00000001:  20095
+     myechoasset-3090  [000] ....  7648.710814: 0x00000001:  13612
+     myechoasset-3091  [000] ....  7649.423582: 0x00000001:  13267
+     myechoasset-11527 [000] ....  9410.252967: 0x00000001:  13137
+     myechoasset-11527 [002] ....  9410.453539: 0x00000001:  14114
+     myechoasset-3091  [000] ....  9419.318959: 0x00000001:  14161
+     myechoasset-3090  [000] ....  9419.516764: 0x00000001:  13657
+     myechoasset-3091  [001] ....  9419.707529: 0x00000001:  13407
+     myechoasset-3088  [001] ....  9419.901557: 0x00000001:  13166
+     myechoasset-11527 [002] ....  9420.095701: 0x00000001:  13277
+     myechoasset-3090  [002] ....  9420.287183: 0x00000001:  13384
+     myechoasset-3091  [000] ....  9420.475029: 0x00000001:  13351
