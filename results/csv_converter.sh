@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 dire=$1
 
 mkdir ./csv_$dire
@@ -19,6 +18,6 @@ cat $dire/latencies | \
 while read latency_line; do
     lat_line=`echo $latency_line | tr -s ' '`
     ts=`echo $lat_line | cut -d' ' -f4 | tr -d ':'`
-    latency=`echo $lat_line | cut -d' ' -f7`
+    latency=`echo $lat_line | cut -d' ' -f6`
     echo "$ts,$cpus,$mem,$stress_cpus,$stress_io,$stress_vm,$stress_vm_bytes,$latency" >> ./csv_$dire/latencies.csv 
 done
