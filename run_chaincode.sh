@@ -8,5 +8,5 @@ fi
 c=$1
 
 for count in `seq $c`; do
-	docker exec -it cli bash -c "peer chaincode invoke -n myechoasset -c '{\"Args\":[\"echo\", \"arg1\"]}' -C myc"
+	sudo docker exec -it cli bash -c "peer chaincode invoke -n myechoasset -c '{\"Args\":[\"echo\", \"arg1\"]}' -C myc"
 done

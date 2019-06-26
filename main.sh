@@ -1,15 +1,16 @@
 #!/usr/bin/env bash
+set -e
 
-./install_pre_reqs.sh
-./setup_bcc.sh
+#./install_pre_reqs.sh
+#./setup_bcc.sh
 
-echo " Setting up golang env, and cloning fabric samples repo"
-./setup_golang_fabric.sh
+#echo " Setting up golang env, and cloning fabric samples repo"
+#./setup_golang_fabric.sh
 
-echo "In a separate window, please run ./setup_fabric_env.sh. After it is up, press ENTER to continue with setup"
-read x
-
-./setup_chaincode.sh
+#echo "In a separate window, please run ./setup_fabric_env.sh. After it is up, press ENTER to continue with setup"
+#read x
+##
+#./setup_chaincode.sh
 
 echo "In a separate window, please run ./make_chaincode_alive.sh. After it is up, press ENTER to continue"
 read x
