@@ -24,7 +24,7 @@ echo "In a separate window, please run sudo ./trace_myechoasset_function.sh Invo
 read x
 
 echo "Running stress tool"
-sudo stress --cpu 4 --io 3 --vm 2 --vm-bytes 256M --timeout 2000s &
+#sudo stress --cpu 4 --io 3 --vm 2 --vm-bytes 256M --timeout 2000s &
 
 echo "Now, invoking chain code 500 times"
 ./run_chaincode.sh 500

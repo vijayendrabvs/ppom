@@ -3,7 +3,8 @@
 source ~/.profile
 mkdir -p $GOPATH/src/github.com
 
-cd $GOPATH/src/github.com && git clone https://github.com/iovisor/bcc.git
+#cd $GOPATH/src/github.com && git clone https://github.com/iovisor/bcc.git
+cd $GOPATH/src/github.com && git clone -b print-func-latency --single-branch https://github.com/vijayendrabvs/bcc.git 
 
 sudo apt-get install -y bpfcc-tools linux-headers-$(uname -r)
 

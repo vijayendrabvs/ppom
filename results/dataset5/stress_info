@@ -1,0 +1,1 @@
+sudo stress --cpu 0 --io 0 --vm 0 --vm-bytes 0M --timeout 2000s
